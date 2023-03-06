@@ -1,10 +1,8 @@
 ## Flutter Gems Community Contribution Guide
 
-Welcome to the GitHub repository for [Flutter Gems](https://fluttergems.dev/) which is used for adding new packages to the website, issue reporting and  new feature requests.
+Welcome to the Community Contribution GitHub repository for [Flutter Gems](https://fluttergems.dev/) which is used for adding new packages to the website, issue reporting, feedback and new feature requests.
 
-Each and every member of the Flutter Community can make a difference by contributing new gems (packages) to the site or by providing valuable feedback.
-
-Please follow the instructions provided below:
+Please follow the instructions provided below to get started:
 
 **Step 1** - Click on the [Issue tab](https://github.com/fluttergems/fluttergems/issues) of this repo.
 
@@ -25,8 +23,11 @@ Please follow the instructions provided below:
 
 ![Screenshot 2023-03-06 at 5 27 25 PM](https://user-images.githubusercontent.com/1382619/223104156-210fced5-5f70-4b0c-985b-a9cf31267a8f.png)
 
+We believe that each and every member of the Flutter Community can make a huge difference by contributing new gems (packages) to the site and by providing valuable feedback.
+
 We are definitely looking forward to your contributions/feedback.
 
-Cheers!
+Cheers!  
+Ashita
 
 ![Flutter Gems](https://fluttergems.dev/media/banner.png)
