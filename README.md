@@ -1,3 +1,5 @@
+![buyuscoffeebanner 001](https://user-images.githubusercontent.com/1382619/223126273-7bf8bcf0-056c-41bf-b053-0521790a7c52.jpeg)
+
 ## Flutter Gems Community Contribution Guide
 
 Welcome to the Community Contribution GitHub repository for [Flutter Gems](https://fluttergems.dev/) which is used for adding new packages to the website, issue reporting, feedback and new feature requests.
@@ -27,7 +29,4 @@ We believe that each and every member of the Flutter Community can make a huge d
 
 We are definitely looking forward to your contributions/feedback.
 
-Cheers!  
-Ashita
-
-![Flutter Gems](https://fluttergems.dev/media/banner.png)
+Cheers! 💙
