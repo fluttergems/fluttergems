@@ -1,6 +1,6 @@
 ---
-name: Feature Request
-about: 'Help us make fluttergems.dev better by suggesting new features. '
+name: Feedback / Feature Request
+about: 'Help us make fluttergems.dev better by providing feedback and/or suggesting new features.'
 title: "[FEATURE REQUEST]"
 labels: ''
 assignees: ashitaprasad
@@ -11,4 +11,7 @@ assignees: ashitaprasad
 _Your response here_
 
 **Describe the solution/feature you'd like us to add**
+_Your response here_
+
+**Any other feedback you would like to provide regarding the site**
 _Your response here_
