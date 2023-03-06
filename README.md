@@ -19,7 +19,7 @@ Please follow the instructions provided below:
 - Provide feedback and/or request a new feature
 - Report any bug on the website
 
-![Screenshot 2023-03-06 at 5 16 24 PM](https://user-images.githubusercontent.com/1382619/223103823-2f34d739-c811-44f1-8af1-82a54ce79961.png)
+![Screenshot 2023-03-06 at 5 16 24 PM](https://user-images.githubusercontent.com/1382619/223105424-c481925c-b516-4881-b988-4cc8dc77eed0.png)
 
 **Step 4** - FIll in the details
 
