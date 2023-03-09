@@ -2,6 +2,8 @@
 
 ## Flutter Gems Community Contribution Guide
 
+[![Discord Server Invite](https://img.shields.io/badge/DISCORD-JOIN%20SERVER-5663F7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bBeSdtJ6Ue)
+
 Welcome to the Community Contribution GitHub repository for [Flutter Gems](https://fluttergems.dev/) which is used for adding new packages to the website, issue reporting, feedback and new feature requests.
 
 Please follow the instructions provided below to get started:
@@ -28,5 +30,8 @@ Please follow the instructions provided below to get started:
 We believe that each and every member of the Flutter Community can make a huge difference by contributing new gems (packages) to the site and by providing valuable feedback.
 
 We are definitely looking forward to your contributions/feedback.
+
+In case you have any doubts please feel free to ping on the **#dart-flutter** channel of our Discord server -  
+[![Discord Server Invite](https://img.shields.io/badge/DISCORD-JOIN%20SERVER-5663F7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bBeSdtJ6Ue)
 
 Cheers! 💙
