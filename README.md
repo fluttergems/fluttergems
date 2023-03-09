@@ -4,7 +4,11 @@
 
 [![Discord Server Invite](https://img.shields.io/badge/DISCORD-JOIN%20SERVER-5663F7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bBeSdtJ6Ue)
 
-Welcome to the Community Contribution GitHub repository for [Flutter Gems](https://fluttergems.dev/) which is used for adding new packages to the website, issue reporting, feedback and new feature requests.
+Welcome to the Community Contribution GitHub repository for [Flutter Gems](https://fluttergems.dev/) which is used for:
+- Adding new packages to the website, 
+- Issue reporting, 
+- Feedback, and 
+- New feature requests
 
 Please follow the instructions provided below to get started:
 
