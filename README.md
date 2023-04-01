@@ -1,14 +1,17 @@
 ![buyuscoffeebanner 001](https://user-images.githubusercontent.com/1382619/223126273-7bf8bcf0-056c-41bf-b053-0521790a7c52.jpeg)
 
-## Flutter Gems Community Contribution Guide
+# Flutter Gems Community Contribution Guide
 
 [![Discord Server Invite](https://img.shields.io/badge/DISCORD-JOIN%20SERVER-5663F7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bBeSdtJ6Ue)
 
 Welcome to the Community Contribution GitHub repository for [Flutter Gems](https://fluttergems.dev/) which is used for:
-- Adding new packages to the website, 
+- Adding new packages to the website ([link]()), 
+- Adding new open source Flutter App/Project ([link]()),
 - Issue reporting, 
 - Feedback, and 
 - New feature requests
+
+## How to add a new package to Flutter Gems? Also, used for reporting issues, providing feedback and making new feature requests.
 
 Please follow the instructions provided below to get started:
 
@@ -30,6 +33,18 @@ Please follow the instructions provided below to get started:
 **Step 4** - FIll in the details
 
 ![Screenshot 2023-03-06 at 5 27 25 PM](https://user-images.githubusercontent.com/1382619/223104156-210fced5-5f70-4b0c-985b-a9cf31267a8f.png)
+
+## How to add a new open source Flutter App/Project to Flutter Gems?
+
+**Step 1** - Go to [`projects.txt`](https://github.com/fluttergems/fluttergems/blob/master/projects.txt)
+
+**Step 2** - Click on Edit button
+
+![Screenshot 2023-04-01 at 8 43 56 PM](https://user-images.githubusercontent.com/1382619/229297960-a8c9441f-4d58-4b89-8d40-8b2391295bd0.png)
+
+**Step 3** - Now, add the project repository at the bottom of the current list of projects and send a Pull Request.
+
+## 🤗
 
 We believe that each and every member of the Flutter Community can make a huge difference by contributing new gems (packages) to the site and by providing valuable feedback.
 
