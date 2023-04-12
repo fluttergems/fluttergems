@@ -99,3 +99,4 @@ https://github.com/Umigishi-Aoi/block_breaker
 https://gitlab.com/nfriend/inspiral
 https://gitlab.com/wolfenrain/okane
 https://github.com/fluttertools/sidekick
+https://github.com/FLopriore/foldie
