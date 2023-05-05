@@ -101,3 +101,4 @@ https://gitlab.com/wolfenrain/okane
 https://github.com/fluttertools/sidekick
 https://github.com/FLopriore/foldie
 https://github.com/Clon1998/mobileraker
+https://github.com/cybercying/coffee_coupon_full_system_demo
