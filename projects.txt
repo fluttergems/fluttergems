@@ -102,6 +102,7 @@ https://github.com/fluttertools/sidekick
 https://github.com/FLopriore/foldie
 https://github.com/Clon1998/mobileraker
 https://github.com/cybercying/coffee_coupon_full_system_demo
+https://github.com/hearsilent/WiFlutter
 https://github.com/flutter/io_flip
 https://github.com/archethic-foundation/archethic-wallet
 https://github.com/Avadhkumar-geek/StudentAI
