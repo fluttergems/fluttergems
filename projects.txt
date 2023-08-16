@@ -106,3 +106,4 @@ https://github.com/flutter/io_flip
 https://github.com/archethic-foundation/archethic-wallet
 https://github.com/Avadhkumar-geek/StudentAI
 https://github.com/animator/brain_punk
+https://github.com/hungps/flutter_pokedex
