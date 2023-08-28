@@ -107,3 +107,6 @@ https://github.com/archethic-foundation/archethic-wallet
 https://github.com/Avadhkumar-geek/StudentAI
 https://github.com/animator/brain_punk
 https://github.com/hungps/flutter_pokedex
+https://github.com/Pr0nE/trip-brain-app
+https://github.com/TaRun1369/Awashyaak
+https://github.com/doreanbyte/katswiri
