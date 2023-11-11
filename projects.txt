@@ -118,3 +118,7 @@ https://github.com/jameskokoska/Cashew
 https://github.com/jashdubal/pomodoro-session
 https://github.com/renancaraujo/turi
 https://github.com/Sangwan5688/BlackHole
+https://github.com/PuzzleTakX/flutter_stepindicator
+https://github.com/PuzzleTakX/text_neon_widget
+https://github.com/PuzzleTakX/navigation_view
+https://github.com/PuzzleTakX/ring_size_view
