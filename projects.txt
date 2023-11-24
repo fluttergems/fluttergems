@@ -119,3 +119,6 @@ https://github.com/jameskokoska/Cashew
 https://github.com/jashdubal/pomodoro-session
 https://github.com/renancaraujo/turi
 https://github.com/Sangwan5688/BlackHole
+https://github.com/invertase/conference-app
+https://github.com/lyskouski/app-finance
+https://github.com/JediPixels/keiko_food_reviews
