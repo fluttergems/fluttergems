@@ -1,7 +1,7 @@
 ---
 name: Adding Dart/Flutter package on Flutter Gems
 about: Use this issue template to add a new package to fluttergems.dev
-title: "[ADD PACKAGE]"
+title: "[ADD PACKAGE] package_name"
 labels: ''
 assignees: ashitaprasad
 
