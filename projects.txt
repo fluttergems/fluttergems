@@ -122,3 +122,7 @@ https://github.com/Sangwan5688/BlackHole
 https://github.com/invertase/conference-app
 https://github.com/lyskouski/app-finance
 https://github.com/JediPixels/keiko_food_reviews
+https://github.com/PuzzleTakX/ring_size_view
+https://github.com/PuzzleTakX/navigation_view
+https://github.com/PuzzleTakX/text_neon_widget
+https://github.com/PuzzleTakX/flutter_stepindicator
