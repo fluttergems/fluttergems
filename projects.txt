@@ -123,3 +123,10 @@ https://github.com/invertase/conference-app
 https://github.com/lyskouski/app-finance
 https://github.com/JediPixels/keiko_food_reviews
 https://github.com/flutter/super_dash
+https://github.com/hiddify/hiddify-next
+https://github.com/niuhuan/wax
+https://github.com/GopeedLab/gopeed
+https://github.com/kodjodevf/mangayomi
+https://github.com/mylxsw/aidea
+https://github.com/niuhuan/daisy
+https://github.com/Notsfsssf/pixez-flutter
