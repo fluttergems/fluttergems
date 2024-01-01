@@ -130,3 +130,4 @@ https://github.com/kodjodevf/mangayomi
 https://github.com/mylxsw/aidea
 https://github.com/niuhuan/daisy
 https://github.com/Notsfsssf/pixez-flutter
+https://github.com/ChamplainLeCode/karee
