@@ -132,3 +132,4 @@ https://github.com/niuhuan/daisy
 https://github.com/Notsfsssf/pixez-flutter
 https://github.com/aricodeine/pmdr
 https://github.com/Xmarmalade/alisthelper
+https://github.com/ShokhrukhbekYuldoshev/Meloplay
