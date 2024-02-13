@@ -135,3 +135,4 @@ https://github.com/Xmarmalade/alisthelper
 https://github.com/ShokhrukhbekYuldoshev/Meloplay
 https://github.com/wednesday-solutions/flutter_template
 https://github.com/getBoolean/flutter_boolean_template
+https://github.com/Khuza1ma/Chat-APP.git
