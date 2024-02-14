@@ -135,6 +135,7 @@ https://github.com/Xmarmalade/alisthelper
 https://github.com/ShokhrukhbekYuldoshev/Meloplay
 https://github.com/wednesday-solutions/flutter_template
 https://github.com/getBoolean/flutter_boolean_template
+https://github.com/simplezhli/flutter_deer
 https://github.com/flutter/news_toolkit
 https://github.com/dart-flitter/flitter
 https://github.com/4seer/openflutterecommerceapp
