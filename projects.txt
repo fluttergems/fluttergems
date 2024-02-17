@@ -160,3 +160,4 @@ https://github.com/git-touch/git-touch
 https://github.com/nfcim/nfsee
 https://github.com/abertschi/water-me
 https://github.com/Mobile-Artificial-Intelligence/maid
+https://github.com/Dionkaps/notebook_paper
