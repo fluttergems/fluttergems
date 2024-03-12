@@ -195,3 +195,4 @@ https://github.com/LiquidGalaxyLAB/AgroRobotSwarm-dashboard
 https://github.com/breez/c-breez
 https://github.com/vkh-cr/avapp
 https://github.com/ente-io/ente
+https://github.com/Afroz-Shaikh/Gauges_Showcase
