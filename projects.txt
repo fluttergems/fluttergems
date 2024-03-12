@@ -193,5 +193,5 @@ https://github.com/LiquidGalaxyLAB/scroll_text_application
 https://github.com/LiquidGalaxyLAB/Rocket-Launcher-App
 https://github.com/LiquidGalaxyLAB/AgroRobotSwarm-dashboard
 https://github.com/breez/c-breez
-https://github.com/vkh-cr/avapp
+https://github.com/vkh-cr/festapp
 https://github.com/ente-io/ente
