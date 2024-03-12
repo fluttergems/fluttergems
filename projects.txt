@@ -194,4 +194,4 @@ https://github.com/LiquidGalaxyLAB/Rocket-Launcher-App
 https://github.com/LiquidGalaxyLAB/AgroRobotSwarm-dashboard
 https://github.com/breez/c-breez
 https://github.com/vkh-cr/avapp
-https://github.com/ente-io/ente/tree/main/mobile
+https://github.com/ente-io/ente
