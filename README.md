@@ -1,52 +1,73 @@
-![buyuscoffeebanner 001](https://user-images.githubusercontent.com/1382619/223126273-7bf8bcf0-056c-41bf-b053-0521790a7c52.jpeg)
+Send2App
+App Notification
 
-# Flutter Gems Community Contribution Guide
+![1blog](https://github.com/user-attachments/assets/432595a7-a26c-4c17-b9ee-46e00a0a1efc)
 
-[![Discord Server Invite](https://img.shields.io/badge/DISCORD-JOIN%20SERVER-5663F7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bBeSdtJ6Ue)
+Introduction ⚡
+In today’s mobile applications, effective communication with users is crucial. The Send2App Flutter package allows developers to seamlessly integrate custom notifications, enhancing user engagement through various notification types such as text, images, URLs, rich cards, suggestions, and live activities.
 
-Welcome to the Community Contribution GitHub repository for [Flutter Gems](https://fluttergems.dev/) which is used for:
-- Adding new packages to the website ([link](https://github.com/fluttergems/fluttergems#how-to-add-a-new-package-to-flutter-gems-also-used-for-reporting-issues-providing-feedback-and-making-new-feature-requests)), 
-- Adding new open source Flutter App/Project ([link](https://github.com/fluttergems/awesome-open-source-flutter-apps)),
-- Issue reporting, 
-- Feedback, and 
-- New feature requests
+Features 👇
+Text Notifications: Simple notifications with a title and message.
 
-## How to add a new package to Flutter Gems? Also, used for reporting issues, providing feedback and making new feature requests.
+Image Notifications: Notifications that include images for enhanced visual appeal.
 
-Please follow the instructions provided below to get started:
+URL Notifications: Notifications that link to specific web pages.
 
-**Step 1** - Click on the [Issue tab](https://github.com/fluttergems/fluttergems/issues) of this repo.
+Rich Card Notifications: Detailed notifications with images, titles, descriptions, and action buttons.
 
-![Screenshot 2023-03-06 at 5 28 50 PM](https://user-images.githubusercontent.com/1382619/223104794-9a0ef6e4-1a03-49c2-9295-ec1a9823cb27.png)
+Suggestion Notifications: Recommendations based on user preferences.
 
-**Step 2** - Click on **New Issue**
+Live Activity Notifications: Real-time updates on the user’s Lock Screen or Notification Center.
 
-![Screenshot 2023-03-06 at 5 16 12 PM](https://user-images.githubusercontent.com/1382619/223103808-fec486ea-6a47-4d6c-8124-59fdeb2721b6.png)
+Notification Types 🔔
+Send2App offers a variety of notification types, each designed to enhance user experience. Here’s a closer look at what you can achieve:
 
-**Step 3** - Choose one of the provided issue templates as shown below to  
-- Add a new package
-- Provide feedback and/or request a new feature
-- Report any bug on the website
+1. Text Notifications
+Description: A Text Notification is a simple notification that displays a title and a brief message. It is used to convey straightforward information to the user and when the user clicks on the notification, it can redirect them to a specific URL in a web browser.
+![1Text](https://github.com/user-attachments/assets/38087b81-c0fb-49fc-948d-0548734066ef)
 
-![Screenshot 2023-03-06 at 5 16 24 PM](https://user-images.githubusercontent.com/1382619/223105424-c481925c-b516-4881-b988-4cc8dc77eed0.png)
 
-**Step 4** - FIll in the details
+2). Image Notification:
+Description: An Image Notification includes an image along with a title and a message. This type of notification is useful for visually appealing content, such as product promotions or event announcements and when clicking the notification will redirect the user to the product page in a web browser.
+![1Image](https://github.com/user-attachments/assets/0e5d0036-5357-4f7b-bd04-522baa1a00e8)
 
-![Screenshot 2023-03-06 at 5 27 25 PM](https://user-images.githubusercontent.com/1382619/223104156-210fced5-5f70-4b0c-985b-a9cf31267a8f.png)
 
-## How to add a new open source Flutter App/Project to Flutter Gems?
+3). URL Notification:
+Description: A URL Notification is a notification that includes a link to a specific webpage. It is often used for promotional content, articles, or updates that the user can read more about and when clicking the notification will open the specified URL in a web browser.
+![1Url](https://github.com/user-attachments/assets/0867a961-0e6e-4abc-a057-7635c76d4814)
 
-We have migrated open source Flutter app submissions to [fluttergems/awesome-open-source-flutter-apps](https://github.com/fluttergems/awesome-open-source-flutter-apps)
 
-Check out the repo and submit your open source Flutter project today!
+4). Rich Card Notification:
+Description: A Rich Card Notification provides a more detailed view, often including an image, title, description, and action buttons. This type of notification is ideal for showcasing events, offers, or detailed updates and when clicking the notification will open the specified URL in a web browser.
+[Rich_Card](https://github.com/user-attachments/assets/d2600f99-f97d-419a-be71-d6db97c01f80)
 
-## 🤗
 
-We believe that each and every member of the Flutter Community can make a huge difference by contributing new gems (packages) to the site and by providing valuable feedback.
+5). Suggestion Notification:
+Description: A Suggestion Notification provides recommendations or suggestions to the user based on their preferences or previous interactions. It can include multiple options for users to choose from.
+![1Suggestion](https://github.com/user-attachments/assets/95286ec0-f4d8-4304-9405-b5632b9c54d5)
 
-We are definitely looking forward to your contributions/feedback.
 
-In case you have any doubts please feel free to ping on the **#dart-flutter** channel of our Discord server -  
-[![Discord Server Invite](https://img.shields.io/badge/DISCORD-JOIN%20SERVER-5663F7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bBeSdtJ6Ue)
+6). Live Activity Notification:
+Description: Live Activity Notifications provide real-time updates directly on the user’s Lock Screen or Notification Center. They are particularly useful for ongoing events such as flights, sports scores, or ticket bookings.
 
-Cheers! 💙
+· Types of Live Activity Notifications:
+👉 Air India Notification Update:
+Description: Displays real-time flight status updates, including departure and arrival times.
+![1Air_India](https://github.com/user-attachments/assets/9f49012d-5d39-4e6b-8826-9448d3856b1e)
+
+
+👉 Match Score Notification Update:
+Description: Shows live scores and updates for ongoing sports matches.
+![1Match](https://github.com/user-attachments/assets/8f6489a6-1659-47c6-88fb-8d6a67a887f3)
+
+
+👉 Bus Ticket Notification Update:
+Description: A Bus Ticket Reminder Live Activity Notification serves as a reminder for passengers about their upcoming bus journey and other details.
+![1Ticket](https://github.com/user-attachments/assets/bacbc773-582e-49be-840d-e57689d6207a)
+
+
+
+Conclusion:
+In today’s fast-paced mobile environment, effective communication through notifications is essential for user engagement and retention. The Send2App Flutter package offers a powerful solution, enabling developers to create a variety of notification types — from simple text alerts to rich media experiences. By utilizing these features, you can enhance user interaction and provide timely, relevant information that keeps users coming back.
+
+Embrace the capabilities of Send2App to elevate your app’s user experience and foster deeper connections with your audience. Start integrating custom notifications today and watch your user engagement thrive!
