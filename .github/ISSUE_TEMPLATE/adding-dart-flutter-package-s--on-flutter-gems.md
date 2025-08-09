@@ -9,6 +9,8 @@ assignees: ashitaprasad
 
 _Note: To add multiple packages, open a separate issue for each package._
 
+**Don't forget to STAR ⭐ the repo. It will help spread more awareness about the awesome Dart & Flutter packages**
+
 **Details of the package(s) you want to add**
 
 - Name of the package 
