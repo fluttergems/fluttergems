@@ -7,32 +7,35 @@
 Welcome to the Community Contribution GitHub repository for [Flutter Gems](https://fluttergems.dev/) which is used for:
 - Adding new packages to the website ([link](https://github.com/fluttergems/fluttergems#how-to-add-a-new-package-to-flutter-gems-also-used-for-reporting-issues-providing-feedback-and-making-new-feature-requests)), 
 - Adding new open source Flutter App/Project ([link](https://github.com/fluttergems/awesome-open-source-flutter-apps)),
-- Issue reporting, 
-- Feedback, and 
-- New feature requests
+- Website issue reporting, feedback, and new feature requests ([Click here](https://github.com/fluttergems/fluttergems/issues/new/choose))
 
 ## How to add a new package to Flutter Gems? Also, used for reporting issues, providing feedback and making new feature requests.
 
 Please follow the instructions provided below to get started:
 
-**Step 1** - Click on the [Issue tab](https://github.com/fluttergems/fluttergems/issues) of this repo.
+### Step 1
 
-![Screenshot 2023-03-06 at 5 28 50 PM](https://user-images.githubusercontent.com/1382619/223104794-9a0ef6e4-1a03-49c2-9295-ec1a9823cb27.png)
+Click on the [CONTRIB.md](https://github.com/fluttergems/fluttergems/blob/master/CONTRIB.md) file.
 
-**Step 2** - Click on **New Issue**
+<img width="1016" height="598" alt="Screenshot 2025-10-19 at 7 43 41 PM" src="https://github.com/user-attachments/assets/f62ca970-bb4f-4f30-9087-0fb032465e2d" />
 
-![Screenshot 2023-03-06 at 5 16 12 PM](https://user-images.githubusercontent.com/1382619/223103808-fec486ea-6a47-4d6c-8124-59fdeb2721b6.png)
+### Step 2
 
-**Step 3** - Choose one of the provided issue templates as shown below to  
-- Add a new package
-- Provide feedback and/or request a new feature
-- Report any bug on the website
+Click on the **"Fork this repository and edit this file"** button as shown below:
 
-![Screenshot 2023-03-06 at 5 16 24 PM](https://user-images.githubusercontent.com/1382619/223105424-c481925c-b516-4881-b988-4cc8dc77eed0.png)
+<img width="1016" height="598" alt="Screenshot 2025-10-19 at 7 44 00 PM" src="https://github.com/user-attachments/assets/6dab8104-8ed5-4cbe-b812-cf4a13808ded" />
 
-**Step 4** - FIll in the details
+### Step 3
 
-![Screenshot 2023-03-06 at 5 27 25 PM](https://user-images.githubusercontent.com/1382619/223104156-210fced5-5f70-4b0c-985b-a9cf31267a8f.png)
+Add your package(s) that is/are currently not available on Flutter Gems at the end of the markdown table as demonstrated for other packages: 
+
+<img width="1016" height="598" alt="Screenshot 2025-10-19 at 7 44 33 PM" src="https://github.com/user-attachments/assets/56c202a2-b321-45d6-9a4d-b0270c4911f0" />
+
+### Step 4
+
+Once you have added the package click **Commit Changes**, add a commit message similar to shown below and click **Propose Changes**
+
+<img width="1016" height="598" alt="Screenshot 2025-10-19 at 7 58 27 PM" src="https://github.com/user-attachments/assets/488f467c-aebb-4705-b318-22d508a1613e" />
 
 ## How to add a new open source Flutter App/Project to Flutter Gems?
 
