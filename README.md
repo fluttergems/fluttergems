@@ -5,7 +5,7 @@
 [![Discord Server Invite](https://img.shields.io/badge/DISCORD-JOIN%20SERVER-5663F7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bBeSdtJ6Ue)
 
 Welcome to the Community Contribution GitHub repository for [Flutter Gems](https://fluttergems.dev/) which is used for:
-- Adding new packages to the website ([link](https://github.com/fluttergems/fluttergems#how-to-add-a-new-package-to-flutter-gems-also-used-for-reporting-issues-providing-feedback-and-making-new-feature-requests)), 
+- Adding new packages to the website ([link](https://github.com/fluttergems/fluttergems/blob/master/README.md#how-to-add-a-new-package-to-flutter-gems)), 
 - Adding new open source Flutter App/Project ([link](https://github.com/fluttergems/awesome-open-source-flutter-apps)),
 - Website issue reporting, feedback, and new feature requests ([Click here](https://github.com/fluttergems/fluttergems/issues/new/choose))
 
