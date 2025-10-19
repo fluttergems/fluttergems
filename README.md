@@ -9,7 +9,7 @@ Welcome to the Community Contribution GitHub repository for [Flutter Gems](https
 - Adding new open source Flutter App/Project ([link](https://github.com/fluttergems/awesome-open-source-flutter-apps)),
 - Website issue reporting, feedback, and new feature requests ([Click here](https://github.com/fluttergems/fluttergems/issues/new/choose))
 
-## How to add a new package to Flutter Gems? Also, used for reporting issues, providing feedback and making new feature requests.
+## How to add a new package to Flutter Gems
 
 Please follow the instructions provided below to get started:
 
