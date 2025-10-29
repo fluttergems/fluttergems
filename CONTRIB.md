@@ -6,4 +6,4 @@ Please add your package at the end of the table:
 | --- | --- | --- |
 | shared_preferences | https://pub.dev/packages/shared_preferences | https://fluttergems.dev/nosql-database/ |
 | riverpod | https://pub.dev/packages/riverpod | https://fluttergems.dev/state-management/ |
-
+| responsive_flex_list | https://pub.dev/packages/responsive_flex_list | https://fluttergems.dev/list/ |
