@@ -10,3 +10,4 @@ Please add your package at the end of the table:
 | smartpub | https://pub.dev/packages/smartpub | https://fluttergems.dev/developer-tools/ |
 | instamojo_plus | https://pub.dev/packages/instamojo_plus | https://fluttergems.dev/payment/ |
 | nosmai_camera_sdk | https://pub.dev/packages/nosmai_camera_sdk | https://fluttergems.dev/camera/ |
+| flutter_indian_utils  | https://pub.dev/packages/flutter_indian_utils | https://fluttergems.dev/autoformat-masking-validation/ |
