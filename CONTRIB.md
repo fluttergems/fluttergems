@@ -15,3 +15,4 @@ Please add your package at the end of the table:
 | guideline_cam | https://pub.dev/packages/guideline_cam | https://fluttergems.dev/camera/ |
 | animated_stack_plus | https://pub.dev/packages/animated_stack_plus | https://fluttergems.dev/floating-action-button/ |
 | responsive_flex_list | https://pub.dev/packages/responsive_flex_list | https://fluttergems.dev/list/ |
+| pubghost | https://pub.dev/packages/pubghost | https://fluttergems.dev/developer-tools/ |
