@@ -14,3 +14,4 @@ Please add your package at the end of the table:
 | audio_converter_native | https://pub.dev/packages/audio_converter_native | https://fluttergems.dev/audio/ |
 | guideline_cam | https://pub.dev/packages/guideline_cam | https://fluttergems.dev/camera/ |
 | animated_stack_plus | https://pub.dev/packages/animated_stack_plus | https://fluttergems.dev/floating-action-button/ |
+| responsive_flex_list | https://pub.dev/packages/responsive_flex_list | https://fluttergems.dev/list/ |
