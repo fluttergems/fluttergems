@@ -8,4 +8,4 @@ Please add your package at the end of the table:
 | riverpod | https://pub.dev/packages/riverpod | https://fluttergems.dev/state-management/ |
 | network_ninja | https://pub.dev/packages/network_ninja | https://fluttergems.dev/debugging-logging/ |
 | smartpub | https://pub.dev/packages/smartpub | https://fluttergems.dev/developer-tools/ |
-| instamojo plus | https://pub.dev/packages/instamojo_plus | https://fluttergems.dev/payment/ |
+| instamojo_plus | https://pub.dev/packages/instamojo_plus | https://fluttergems.dev/payment/ |
