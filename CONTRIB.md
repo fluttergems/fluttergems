@@ -12,3 +12,4 @@ Please add your package at the end of the table:
 | nosmai_camera_sdk | https://pub.dev/packages/nosmai_camera_sdk | https://fluttergems.dev/camera/ |
 | flutter_indian_utils  | https://pub.dev/packages/flutter_indian_utils | https://fluttergems.dev/autoformat-masking-validation/ |
 | audio_converter_native | https://pub.dev/packages/audio_converter_native | https://fluttergems.dev/audio/ |
+| guideline_cam | https://pub.dev/packages/guideline_cam | https://fluttergems.dev/camera/ |
