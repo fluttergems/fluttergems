@@ -13,6 +13,10 @@ Welcome to the Community Contribution GitHub repository for [Flutter Gems](https
 
 Please follow the instructions provided below to get started:
 
+### Step 0
+
+Show some love 💙 to Flutter Gems by starring ⭐️ this repository.
+
 ### Step 1
 
 Click on the [CONTRIB.md](https://github.com/fluttergems/fluttergems/blob/master/CONTRIB.md) file.
