@@ -17,3 +17,4 @@ Please add your package at the end of the table:
 | responsive_flex_list | https://pub.dev/packages/responsive_flex_list | https://fluttergems.dev/list/ |
 | pubghost | https://pub.dev/packages/pubghost | https://fluttergems.dev/developer-tools/ |
 | linkhive_flutter | https://pub.dev/packages/linkhive_flutter | https://fluttergems.dev/deep-linking/ |
+| flutter_easy_swagger_generator | https://pub.dev/packages/flutter_easy_swagger_generator | https://fluttergems.dev/openapi/ |
