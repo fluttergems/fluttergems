@@ -18,3 +18,5 @@ Please add your package at the end of the table:
 | pubghost | https://pub.dev/packages/pubghost | https://fluttergems.dev/developer-tools/ |
 | linkhive_flutter | https://pub.dev/packages/linkhive_flutter | https://fluttergems.dev/deep-linking/ |
 | flutter_easy_swagger_generator | https://pub.dev/packages/flutter_easy_swagger_generator | https://fluttergems.dev/openapi/ |
+| flutter_scale_kit | https://pub.dev/packages/flutter_scale_kit | https://fluttergems.dev/responsive-ui/ |
+
