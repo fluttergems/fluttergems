@@ -19,4 +19,5 @@ Please add your package at the end of the table:
 | linkhive_flutter | https://pub.dev/packages/linkhive_flutter | https://fluttergems.dev/deep-linking/ |
 | flutter_easy_swagger_generator | https://pub.dev/packages/flutter_easy_swagger_generator | https://fluttergems.dev/openapi/ |
 | flutter_scale_kit | https://pub.dev/packages/flutter_scale_kit | https://fluttergems.dev/responsive-ui/ |
+| media_compressor | https://pub.dev/packages/media_compressor | https://fluttergems.dev/edit-save-compress-multimedia/ |
 
