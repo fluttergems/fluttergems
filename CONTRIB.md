@@ -19,4 +19,4 @@ Please add your package at the end of the table:
 | linkhive_flutter | https://pub.dev/packages/linkhive_flutter | https://fluttergems.dev/deep-linking/ |
 | flutter_easy_swagger_generator | https://pub.dev/packages/flutter_easy_swagger_generator | https://fluttergems.dev/openapi/ |
 | flutter_scale_kit | https://pub.dev/packages/flutter_scale_kit | https://fluttergems.dev/responsive-ui/ |
-
+| V2ray | https://github.com/amir-zr/flutter_v2ray_client | https://fluttergems.dev/wifi-iot/ |
