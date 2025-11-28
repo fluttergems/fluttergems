@@ -22,3 +22,4 @@ Please add your package at the end of the table:
 | flutter_v2ray_client | https://pub.dev/packages/flutter_v2ray_client | https://fluttergems.dev/wifi-iot/ |
 | media_compressor | https://pub.dev/packages/media_compressor | https://fluttergems.dev/edit-save-compress-multimedia/ |
 | recorder | https://pub.dev/packages/recorder | https://fluttergems.dev/audio/ |
+| arch_starters | https://pub.dev/packages/arch_starters | https://fluttergems.dev/cli/ |
