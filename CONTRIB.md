@@ -28,3 +28,4 @@ Please add your package at the end of the table:
 | flutter_chuck_inspection | https://pub.dev/packages/flutter_chuck_inspection | https://fluttergems.dev/http-client-utilities/ |
 | currency_widget | https://pub.dev/packages/currency_widget | https://fluttergems.dev/autoformat-masking-validation/ |
 | funx | https://pub.dev/packages/funx | https://fluttergems.dev/language-extension-enhancement/ |
+| background_location_plus | https://pub.dev/packages/background_location_plus | https://fluttergems.dev/geolocation-maps/ |
