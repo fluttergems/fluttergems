@@ -29,3 +29,4 @@ Please add your package at the end of the table:
 | currency_widget | https://pub.dev/packages/currency_widget | https://fluttergems.dev/autoformat-masking-validation/ |
 | funx | https://pub.dev/packages/funx | https://fluttergems.dev/language-extension-enhancement/ |
 | background_location_plus | https://pub.dev/packages/background_location_plus | https://fluttergems.dev/geolocation-maps/ |
+| arch_starters | https://pub.dev/packages/arch_starters | https://fluttergems.dev/cli/ |
