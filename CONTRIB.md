@@ -25,3 +25,4 @@ Please add your package at the end of the table:
 | digia_ui | https://pub.dev/packages/digia_ui | https://fluttergems.dev/widget-generation-rendering/ |
 | shalom_core | https://pub.dev/packages/shalom_core | https://fluttergems.dev/graph-query-language/ |
 | analytics_gen | https://pub.dev/packages/analytics_gen | https://fluttergems.dev/analytics-consumer-insights/ |
+| flutter_chuck_inspection | https://pub.dev/packages/flutter_chuck_inspection | https://fluttergems.dev/http-client-utilities/ |
