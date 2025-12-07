@@ -22,4 +22,6 @@ Please add your package at the end of the table:
 | flutter_v2ray_client | https://pub.dev/packages/flutter_v2ray_client | https://fluttergems.dev/wifi-iot/ |
 | media_compressor | https://pub.dev/packages/media_compressor | https://fluttergems.dev/edit-save-compress-multimedia/ |
 | recorder | https://pub.dev/packages/recorder | https://fluttergems.dev/audio/ |
+| digia_ui | https://pub.dev/packages/digia_ui | https://fluttergems.dev/widget-generation-rendering/ |
+| shalom_core | https://pub.dev/packages/shalom_core | https://fluttergems.dev/graph-query-language/ |
 | analytics_gen | https://pub.dev/packages/analytics_gen | https://fluttergems.dev/analytics-consumer-insights/ |
