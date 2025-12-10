@@ -30,3 +30,4 @@ Please add your package at the end of the table:
 | funx | https://pub.dev/packages/funx | https://fluttergems.dev/language-extension-enhancement/ |
 | background_location_plus | https://pub.dev/packages/background_location_plus | https://fluttergems.dev/geolocation-maps/ |
 | arch_starters | https://pub.dev/packages/arch_starters | https://fluttergems.dev/cli/ |
+| flutter_dmx | https://pub.dev/packages/flutter_dmx | https://fluttergems.dev/wifi-iot/ |
