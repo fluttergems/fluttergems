@@ -30,3 +30,8 @@ Please add your package at the end of the table:
 | funx | https://pub.dev/packages/funx | https://fluttergems.dev/language-extension-enhancement/ |
 | background_location_plus | https://pub.dev/packages/background_location_plus | https://fluttergems.dev/geolocation-maps/ |
 | arch_starters | https://pub.dev/packages/arch_starters | https://fluttergems.dev/cli/ |
+| df_http | https://pub.dev/packages/df_http | https://fluttergems.dev/http-client-utilities/ |
+| df_dropdown | https://pub.dev/packages/df_dropdown | https://fluttergems.dev/dropdown/ |
+| df_debug_wrapper | https://pub.dev/packages/df_debug_wrapper | https://fluttergems.dev/debugging-logging/ |
+| df_async_loader | https://pub.dev/packages/df_async_loader | https://fluttergems.dev/indicators-loading-refresh-progress/|
+| df_tooltip | https://pub.dev/packages/df_tooltip | https://fluttergems.dev/layout-overlay/|
