@@ -32,3 +32,4 @@ Please add your package at the end of the table:
 | arch_starters | https://pub.dev/packages/arch_starters | https://fluttergems.dev/cli/ |
 | perforated_border | https://pub.dev/packages/perforated_border | https://fluttergems.dev/clipper-decoration/ |
 | dotted_side_border | https://pub.dev/packages/dotted_side_border | https://fluttergems.dev/clipper-decoration/ |
+| flutter_dmx | https://pub.dev/packages/flutter_dmx | https://fluttergems.dev/iot-hardware/ |
