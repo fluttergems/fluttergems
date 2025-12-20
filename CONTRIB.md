@@ -39,3 +39,5 @@ Please add your package at the end of the table:
 | df_debug_wrapper | https://pub.dev/packages/df_debug_wrapper | https://fluttergems.dev/debugging-logging/ |
 | df_async_loader | https://pub.dev/packages/df_async_loader | https://fluttergems.dev/indicators-loading-refresh-progress/|
 | df_tooltip | https://pub.dev/packages/df_tooltip | https://fluttergems.dev/layout-overlay/|
+| flutter_multi_dialogs | https://pub.dev/packages/flutter_multi_dialogs | https://fluttergems.dev/dialogs/ |
+| maintenance_banner | https://pub.dev/packages/maintenance_banner | https://fluttergems.dev/badge/ |
