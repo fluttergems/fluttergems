@@ -31,4 +31,4 @@ Please add your package at the end of the table:
 | background_location_plus | https://pub.dev/packages/background_location_plus | https://fluttergems.dev/geolocation-maps/ |
 | arch_starters | https://pub.dev/packages/arch_starters | https://fluttergems.dev/cli/ |
 | perforated_border | https://pub.dev/packages/perforated_border | https://fluttergems.dev/clipper-decoration/ |
-
+| dotted_side_border | https://pub.dev/packages/dotted_side_border | https://fluttergems.dev/clipper-decoration/ |
