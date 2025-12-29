@@ -41,3 +41,4 @@ Please add your package at the end of the table:
 | df_tooltip | https://pub.dev/packages/df_tooltip | https://fluttergems.dev/layout-overlay/|
 | flutter_multi_dialogs | https://pub.dev/packages/flutter_multi_dialogs | https://fluttergems.dev/dialogs/ |
 | maintenance_banner | https://pub.dev/packages/maintenance_banner | https://fluttergems.dev/badge/ |
+| flutter_peer | https://pub.dev/packages/flutter_peer | https://fluttergems.dev/real-time-communication |
