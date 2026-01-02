@@ -44,3 +44,4 @@ Please add your package at the end of the table:
 | texpr | https://pub.dev/packages/texpr | https://fluttergems.dev/latex/ |
 | flutter_time_guard | https://pub.dev/packages/flutter_time_guard | https://fluttergems.dev/date-time-utilities/ |
 | flutter_spinners | https://pub.dev/packages/flutter_spinners | https://fluttergems.dev/indicators-loading-refresh-progress/ |
+| darc | https://pub.dev/packages/darc | https://fluttergems.dev/http-client-utilities/ |
