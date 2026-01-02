@@ -46,3 +46,4 @@ Please add your package at the end of the table:
 | flutter_spinners | https://pub.dev/packages/flutter_spinners | https://fluttergems.dev/indicators-loading-refresh-progress/ |
 | darc | https://pub.dev/packages/darc | https://fluttergems.dev/http-client-utilities/ |
 | flutter_peer | https://pub.dev/packages/flutter_peer | https://fluttergems.dev/real-time-communication |
+| super_image_selector | https://pub.dev/packages/super_image_selector | https://fluttergems.dev/multimedia-picker/ |
