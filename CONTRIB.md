@@ -42,3 +42,4 @@ Please add your package at the end of the table:
 | flutter_multi_dialogs | https://pub.dev/packages/flutter_multi_dialogs | https://fluttergems.dev/dialogs/ |
 | maintenance_banner | https://pub.dev/packages/maintenance_banner | https://fluttergems.dev/badge/ |
 | texpr | https://pub.dev/packages/texpr | https://fluttergems.dev/latex/ |
+| flutter_time_guard | https://pub.dev/packages/flutter_time_guard | https://fluttergems.dev/date-time-utilities/ |
