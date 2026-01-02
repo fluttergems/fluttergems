@@ -43,3 +43,4 @@ Please add your package at the end of the table:
 | maintenance_banner | https://pub.dev/packages/maintenance_banner | https://fluttergems.dev/badge/ |
 | texpr | https://pub.dev/packages/texpr | https://fluttergems.dev/latex/ |
 | flutter_time_guard | https://pub.dev/packages/flutter_time_guard | https://fluttergems.dev/date-time-utilities/ |
+| flutter_spinners | https://pub.dev/packages/flutter_spinners | https://fluttergems.dev/indicators-loading-refresh-progress/ |
