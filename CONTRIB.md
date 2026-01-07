@@ -48,3 +48,6 @@ Please add your package at the end of the table:
 | flutter_peer | https://pub.dev/packages/flutter_peer | https://fluttergems.dev/real-time-communication |
 | super_image_selector | https://pub.dev/packages/super_image_selector | https://fluttergems.dev/multimedia-picker/ |
 | legacy_gantt_chart | https://pub.dev/packages/legacy_gantt_chart | https://fluttergems.dev/plots-visualization/ |
+| flutter_device_security | https://pub.dev/packages/flutter_device_security | https://fluttergems.dev/cryptography-security-permissions/ |
+| http_file_transfer_server | https://pub.dev/packages/http_file_transfer_server | https://fluttergems.dev/file-picker/ |
+
