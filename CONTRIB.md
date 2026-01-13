@@ -48,3 +48,4 @@ Please add your package at the end of the table:
 | flutter_peer | https://pub.dev/packages/flutter_peer | https://fluttergems.dev/real-time-communication |
 | super_image_selector | https://pub.dev/packages/super_image_selector | https://fluttergems.dev/multimedia-picker/ |
 | legacy_gantt_chart | https://pub.dev/packages/legacy_gantt_chart | https://fluttergems.dev/plots-visualization/ |
+| rich_i18n | https://pub.dev/packages/rich_i18n | https://fluttergems.dev/localization-internationalization/ |
