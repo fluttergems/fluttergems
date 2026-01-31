@@ -60,3 +60,4 @@ Please add your package at the end of the table:
 | smile_snap | https://pub.dev/packages/smile_snap | https://fluttergems.dev/machine-learning/ |
 | luxe_toast | https://pub.dev/packages/luxe_toast | https://fluttergems.dev/notification-toast/ |
 | tiny_expr | https://pub.dev/packages/tiny_expr | https://fluttergems.dev/math-utilities/ |
+| rich_i18n | https://pub.dev/packages/rich_i18n | https://fluttergems.dev/localization-internationalization/ |
