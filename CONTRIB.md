@@ -59,3 +59,4 @@ Please add your package at the end of the table:
 | liquid_glass_easy | https://pub.dev/packages/liquid_glass_easy | https://fluttergems.dev/glassmorphic-ui/ |
 | smile_snap | https://pub.dev/packages/smile_snap | https://fluttergems.dev/machine-learning/ |
 | luxe_toast | https://pub.dev/packages/luxe_toast | https://fluttergems.dev/notification-toast/ |
+| tiny_expr | https://pub.dev/packages/tiny_expr | https://fluttergems.dev/math-utilities/ |
