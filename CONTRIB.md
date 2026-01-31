@@ -57,3 +57,4 @@ Please add your package at the end of the table:
 | flutter_device_security | https://pub.dev/packages/flutter_device_security | https://fluttergems.dev/cryptography-security-permissions/ |
 | http_file_transfer_server | https://pub.dev/packages/http_file_transfer_server | https://fluttergems.dev/http-client-utilities/ |
 | liquid_glass_easy | https://pub.dev/packages/liquid_glass_easy | https://fluttergems.dev/glassmorphic-ui/ |
+| smile_snap | https://pub.dev/packages/smile_snap | https://fluttergems.dev/machine-learning/ |
