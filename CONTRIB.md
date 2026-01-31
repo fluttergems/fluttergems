@@ -54,3 +54,5 @@ Please add your package at the end of the table:
 | country_flags_plus | https://pub.dev/packages/country_flags_plus | https://fluttergems.dev/country-country-code-picker/ |
 | toon_plus | https://pub.dev/packages/toon_plus | https://fluttergems.dev/json/ |
 | riverpod_devtools_tracker | https://pub.dev/packages/riverpod_devtools_tracker | https://fluttergems.dev/developer-tools/ |
+| flutter_device_security | https://pub.dev/packages/flutter_device_security | https://fluttergems.dev/cryptography-security-permissions/ |
+| http_file_transfer_server | https://pub.dev/packages/http_file_transfer_server | https://fluttergems.dev/http-client-utilities/ |
