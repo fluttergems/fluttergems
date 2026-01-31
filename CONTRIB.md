@@ -58,3 +58,4 @@ Please add your package at the end of the table:
 | http_file_transfer_server | https://pub.dev/packages/http_file_transfer_server | https://fluttergems.dev/http-client-utilities/ |
 | liquid_glass_easy | https://pub.dev/packages/liquid_glass_easy | https://fluttergems.dev/glassmorphic-ui/ |
 | smile_snap | https://pub.dev/packages/smile_snap | https://fluttergems.dev/machine-learning/ |
+| luxe_toast | https://pub.dev/packages/luxe_toast | https://fluttergems.dev/notification-toast/ |
