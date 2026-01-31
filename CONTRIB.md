@@ -49,3 +49,5 @@ Please add your package at the end of the table:
 | super_image_selector | https://pub.dev/packages/super_image_selector | https://fluttergems.dev/multimedia-picker/ |
 | legacy_gantt_chart | https://pub.dev/packages/legacy_gantt_chart | https://fluttergems.dev/plots-visualization/ |
 | flutter_easy_translate | https://pub.dev/packages/flutter_easy_translate | https://fluttergems.dev/localization-internationalization/ |
+| flutter_folderview | https://pub.dev/packages/flutter_folderview | https://fluttergems.dev/tree-view/ |
+| flutter_oss_manager | https://pub.dev/packages/flutter_oss_manager | https://fluttergems.dev/developer-tools/ |
