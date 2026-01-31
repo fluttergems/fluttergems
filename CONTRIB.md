@@ -53,3 +53,4 @@ Please add your package at the end of the table:
 | flutter_oss_manager | https://pub.dev/packages/flutter_oss_manager | https://fluttergems.dev/developer-tools/ |
 | country_flags_plus | https://pub.dev/packages/country_flags_plus | https://fluttergems.dev/country-country-code-picker/ |
 | toon_plus | https://pub.dev/packages/toon_plus | https://fluttergems.dev/json/ |
+| riverpod_devtools_tracker | https://pub.dev/packages/riverpod_devtools_tracker | https://fluttergems.dev/developer-tools/ |
