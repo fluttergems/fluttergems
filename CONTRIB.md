@@ -48,5 +48,9 @@ Please add your package at the end of the table:
 | flutter_peer | https://pub.dev/packages/flutter_peer | https://fluttergems.dev/real-time-communication |
 | super_image_selector | https://pub.dev/packages/super_image_selector | https://fluttergems.dev/multimedia-picker/ |
 | legacy_gantt_chart | https://pub.dev/packages/legacy_gantt_chart | https://fluttergems.dev/plots-visualization/ |
-| riverpod_devtools_tracker | https://pub.dev/packages/riverpod_devtools_tracker | https://fluttergems.dev/language-extension-enhancement/ |
-
+| flutter_easy_translate | https://pub.dev/packages/flutter_easy_translate | https://fluttergems.dev/localization-internationalization/ |
+| flutter_folderview | https://pub.dev/packages/flutter_folderview | https://fluttergems.dev/tree-view/ |
+| flutter_oss_manager | https://pub.dev/packages/flutter_oss_manager | https://fluttergems.dev/developer-tools/ |
+| country_flags_plus | https://pub.dev/packages/country_flags_plus | https://fluttergems.dev/country-country-code-picker/ |
+| toon_plus | https://pub.dev/packages/toon_plus | https://fluttergems.dev/json/ |
+| riverpod_devtools_tracker | https://pub.dev/packages/riverpod_devtools_tracker | https://fluttergems.dev/developer-tools/ |
