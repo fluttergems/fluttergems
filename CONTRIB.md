@@ -64,3 +64,5 @@ Please add your package at the end of the table:
 | widget_to_html | https://pub.dev/packages/widget_to_html | https://fluttergems.dev/html-css/ |
 | resource_network_fetcher | https://pub.dev/packages/resource_network_fetcher | https://fluttergems.dev/http-client-utilities/ |
 | flutterfx_blur_fade | https://pub.dev/packages/flutterfx_blur_fade | https://fluttergems.dev/animation/ |
+| universal_file_viewer | https://pub.dev/packages/universal_file_viewer | https://fluttergems.dev/file-folder-path-util/ |
+| dynamic_icon_changer | https://pub.dev/packages/dynamic_icon_changer | https://fluttergems.dev/home-screen-launcher-icon-name/ |
