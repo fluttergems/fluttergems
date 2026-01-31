@@ -62,3 +62,4 @@ Please add your package at the end of the table:
 | tiny_expr | https://pub.dev/packages/tiny_expr | https://fluttergems.dev/math-utilities/ |
 | rich_i18n | https://pub.dev/packages/rich_i18n | https://fluttergems.dev/localization-internationalization/ |
 | widget_to_html | https://pub.dev/packages/widget_to_html | https://fluttergems.dev/html-css/ |
+| resource_network_fetcher | https://pub.dev/packages/resource_network_fetcher | https://fluttergems.dev/http-client-utilities/ |
