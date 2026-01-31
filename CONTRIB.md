@@ -66,3 +66,5 @@ Please add your package at the end of the table:
 | flutterfx_blur_fade | https://pub.dev/packages/flutterfx_blur_fade | https://fluttergems.dev/animation/ |
 | universal_file_viewer | https://pub.dev/packages/universal_file_viewer | https://fluttergems.dev/file-folder-path-util/ |
 | dynamic_icon_changer | https://pub.dev/packages/dynamic_icon_changer | https://fluttergems.dev/home-screen-launcher-icon-name/ |
+| morph_switch | https://pub.dev/packages/morph_switch | https://fluttergems.dev/switch/ |
+| auto_lang_field | https://pub.dev/packages/auto_lang_field | https://fluttergems.dev/localization-internationalization/ |
