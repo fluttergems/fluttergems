@@ -61,3 +61,4 @@ Please add your package at the end of the table:
 | luxe_toast | https://pub.dev/packages/luxe_toast | https://fluttergems.dev/notification-toast/ |
 | tiny_expr | https://pub.dev/packages/tiny_expr | https://fluttergems.dev/math-utilities/ |
 | rich_i18n | https://pub.dev/packages/rich_i18n | https://fluttergems.dev/localization-internationalization/ |
+| widget_to_html | https://pub.dev/packages/widget_to_html | https://fluttergems.dev/html-css/ |
