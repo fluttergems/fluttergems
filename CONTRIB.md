@@ -48,4 +48,16 @@ Please add your package at the end of the table:
 | flutter_peer | https://pub.dev/packages/flutter_peer | https://fluttergems.dev/real-time-communication |
 | super_image_selector | https://pub.dev/packages/super_image_selector | https://fluttergems.dev/multimedia-picker/ |
 | legacy_gantt_chart | https://pub.dev/packages/legacy_gantt_chart | https://fluttergems.dev/plots-visualization/ |
+| flutter_easy_translate | https://pub.dev/packages/flutter_easy_translate | https://fluttergems.dev/localization-internationalization/ |
+| flutter_folderview | https://pub.dev/packages/flutter_folderview | https://fluttergems.dev/tree-view/ |
+| flutter_oss_manager | https://pub.dev/packages/flutter_oss_manager | https://fluttergems.dev/developer-tools/ |
+| country_flags_plus | https://pub.dev/packages/country_flags_plus | https://fluttergems.dev/country-country-code-picker/ |
+| toon_plus | https://pub.dev/packages/toon_plus | https://fluttergems.dev/json/ |
+| riverpod_devtools_tracker | https://pub.dev/packages/riverpod_devtools_tracker | https://fluttergems.dev/developer-tools/ |
+| flutter_device_security | https://pub.dev/packages/flutter_device_security | https://fluttergems.dev/cryptography-security-permissions/ |
+| http_file_transfer_server | https://pub.dev/packages/http_file_transfer_server | https://fluttergems.dev/http-client-utilities/ |
+| liquid_glass_easy | https://pub.dev/packages/liquid_glass_easy | https://fluttergems.dev/glassmorphic-ui/ |
+| smile_snap | https://pub.dev/packages/smile_snap | https://fluttergems.dev/machine-learning/ |
+| luxe_toast | https://pub.dev/packages/luxe_toast | https://fluttergems.dev/notification-toast/ |
+| tiny_expr | https://pub.dev/packages/tiny_expr | https://fluttergems.dev/math-utilities/ |
 | rich_i18n | https://pub.dev/packages/rich_i18n | https://fluttergems.dev/localization-internationalization/ |
