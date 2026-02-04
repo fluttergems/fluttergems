@@ -68,4 +68,4 @@ Please add your package at the end of the table:
 | dynamic_icon_changer | https://pub.dev/packages/dynamic_icon_changer | https://fluttergems.dev/home-screen-launcher-icon-name/ |
 | morph_switch | https://pub.dev/packages/morph_switch | https://fluttergems.dev/switch/ |
 | auto_lang_field | https://pub.dev/packages/auto_lang_field | https://fluttergems.dev/localization-internationalization/ |
-| flutter_flag_selector | https://pub.dev/packages/flutter_flag_selector | https://fluttergems.dev/country-region/ |
+| flutter_flag_selector | https://pub.dev/packages/flutter_flag_selector | https://fluttergems.dev/country-country-code-picker/ |
