@@ -71,3 +71,5 @@ Please add your package at the end of the table:
 | flutter_flag_selector | https://pub.dev/packages/flutter_flag_selector | https://fluttergems.dev/country-country-code-picker/ |
 | in_app_update_dialog | https://pub.dev/packages/in_app_update_dialog | https://fluttergems.dev/app-update/ |
 | in_app_review_flutter | https://pub.dev/packages/in_app_review_flutter | https://fluttergems.dev/feedback/ |
+| orient_ui | https://pub.dev/packages/orient_ui | https://fluttergems.dev/design-system/ |
+| hide_my_code | https://pub.dev/packages/hide_my_code | https://fluttergems.dev/cryptography-security-permissions/ |
