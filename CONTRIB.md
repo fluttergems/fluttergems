@@ -73,3 +73,4 @@ Please add your package at the end of the table:
 | in_app_review_flutter | https://pub.dev/packages/in_app_review_flutter | https://fluttergems.dev/feedback/ |
 | orient_ui | https://pub.dev/packages/orient_ui | https://fluttergems.dev/design-system/ |
 | hide_my_code | https://pub.dev/packages/hide_my_code | https://fluttergems.dev/cryptography-security-permissions/ |
+| phantom_wallet_connect | https://pub.dev/packages/phantom_wallet_connect | https://fluttergems.dev/web3-crypto-blockchain/ |
