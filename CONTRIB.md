@@ -73,4 +73,5 @@ Please add your package at the end of the table:
 | in_app_review_flutter | https://pub.dev/packages/in_app_review_flutter | https://fluttergems.dev/feedback/ |
 | orient_ui | https://pub.dev/packages/orient_ui | https://fluttergems.dev/design-system/ |
 | hide_my_code | https://pub.dev/packages/hide_my_code | https://fluttergems.dev/cryptography-security-permissions/ |
-| keystone_network | https://pub.dev/packages/keystone_network | https://fluttergems.dev/keystone_network/ |
+| file_saver_ffi | https://pub.dev/packages/file_saver_ffi | https://fluttergems.dev/file-folder-path-util/ |
+| keystone_network | https://pub.dev/packages/keystone_network | https://fluttergems.dev/http-client-utilities/ |
