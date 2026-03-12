@@ -74,4 +74,4 @@ Please add your package at the end of the table:
 | orient_ui | https://pub.dev/packages/orient_ui | https://fluttergems.dev/design-system/ |
 | hide_my_code | https://pub.dev/packages/hide_my_code | https://fluttergems.dev/cryptography-security-permissions/ |
 | file_saver_ffi | https://pub.dev/packages/file_saver_ffi | https://fluttergems.dev/file-folder-path-util/ |
-
+| keystone_network | https://pub.dev/packages/keystone_network | https://fluttergems.dev/http-client-utilities/ |
