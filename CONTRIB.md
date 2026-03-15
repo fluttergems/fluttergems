@@ -76,3 +76,5 @@ Please add your package at the end of the table:
 | file_saver_ffi | https://pub.dev/packages/file_saver_ffi | https://fluttergems.dev/file-folder-path-util/ |
 | keystone_network | https://pub.dev/packages/keystone_network | https://fluttergems.dev/http-client-utilities/ |
 | api_radar | https://pub.dev/packages/api_radar | https://fluttergems.dev/http-client-utilities/ |
+| currency_widget | https://pub.dev/packages/currency_widget | https://fluttergems.dev/country-country-code-picker/|
+| excel_community | https://pub.dev/packages/excel_community | https://fluttergems.dev/ods-xlsx-sheets/|
