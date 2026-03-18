@@ -79,3 +79,4 @@ Please add your package at the end of the table:
 | flutter_onscreen_keyboard | https://pub.dev/packages/flutter_onscreen_keyboard | https://fluttergems.dev/keyboard/ |
 | hive_box_manager | https://pub.dev/packages/hive_box_manager | https://fluttergems.dev/nosql-database/ |
 | platform_adaptive_widgets | https://pub.dev/packages/platform_adaptive_widgets | https://fluttergems.dev/widget-library-ui-framework/ |
+| phantom_wallet_connect | https://pub.dev/packages/phantom_wallet_connect | https://fluttergems.dev/web3-crypto-blockchain/ |
