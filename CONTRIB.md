@@ -83,3 +83,4 @@ Please add your package at the end of the table:
 | flutter_tree_graph | https://pub.dev/packages/flutter_tree_graph | https://fluttergems.dev/tree-view/ |
 | grid_sheet | https://pub.dev/packages/grid_sheet | https://fluttergems.dev/table/ |
 | rich_text_flutter | https://pub.dev/packages/rich_text_flutter | https://fluttergems.dev/richtext-markdown-editor/ |
+| permission_manager | https://pub.dev/packages/permission_manager | https://fluttergems.dev/cryptography-security-permissions/ |
