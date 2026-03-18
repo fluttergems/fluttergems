@@ -84,3 +84,4 @@ Please add your package at the end of the table:
 | grid_sheet | https://pub.dev/packages/grid_sheet | https://fluttergems.dev/table/ |
 | rich_text_flutter | https://pub.dev/packages/rich_text_flutter | https://fluttergems.dev/richtext-markdown-editor/ |
 | permission_manager | https://pub.dev/packages/permission_manager | https://fluttergems.dev/cryptography-security-permissions/ |
+| flutter_scalable_ocr_enhanced | https://pub.dev/packages/flutter_scalable_ocr_enhanced | https://fluttergems.dev/machine-learning/ |
