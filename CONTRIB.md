@@ -98,3 +98,4 @@ Please add your package at the end of the table:
 | adaptive_shell | https://pub.dev/packages/adaptive_shell | https://fluttergems.dev/responsive-ui/ |
 | currency_widget | https://pub.dev/packages/currency_widget | https://fluttergems.dev/country-country-code-picker/ |
 | excel_community | https://pub.dev/packages/excel_community | https://fluttergems.dev/ods-xlsx-sheets/ |
+| circle_blast_transition | https://pub.dev/packages/circle_blast_transition | https://fluttergems.dev/animation-transition/ |
