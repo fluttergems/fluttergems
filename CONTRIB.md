@@ -76,4 +76,7 @@ Please add your package at the end of the table:
 | file_saver_ffi | https://pub.dev/packages/file_saver_ffi | https://fluttergems.dev/file-folder-path-util/ |
 | keystone_network | https://pub.dev/packages/keystone_network | https://fluttergems.dev/http-client-utilities/ |
 | api_radar | https://pub.dev/packages/api_radar | https://fluttergems.dev/http-client-utilities/ |
+| flutter_onscreen_keyboard | https://pub.dev/packages/flutter_onscreen_keyboard | https://fluttergems.dev/keyboard/ |
+| hive_box_manager | https://pub.dev/packages/hive_box_manager | https://fluttergems.dev/nosql-database/ |
+| platform_adaptive_widgets | https://pub.dev/packages/platform_adaptive_widgets | https://fluttergems.dev/widget-library-ui-framework/ |
 | phantom_wallet_connect | https://pub.dev/packages/phantom_wallet_connect | https://fluttergems.dev/web3-crypto-blockchain/ |
