@@ -89,3 +89,5 @@ Please add your package at the end of the table:
 | industrial_drawing_flutter | https://pub.dev/packages/industrial_drawing_flutter | https://fluttergems.dev/drawing-painting-signature/ |
 | telegram_nav_bar | https://pub.dev/packages/telegram_nav_bar | https://fluttergems.dev/bottom-navigation-bar/ |
 | vantura | https://pub.dev/packages/vantura | https://fluttergems.dev/chatgpt-llm-genai/ |
+| textf | https://pub.dev/packages/textf | https://fluttergems.dev/emoji-rich-text/ |
+| quantify | https://pub.dev/packages/quantify | https://fluttergems.dev/math-utilities/ |
