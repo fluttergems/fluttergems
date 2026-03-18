@@ -95,3 +95,4 @@ Please add your package at the end of the table:
 | custom_loading_loader | https://pub.dev/packages/custom_loading_loader | https://fluttergems.dev/indicators-loading-refresh-progress/ |
 | flutter_agenda | https://pub.dev/packages/flutter_agenda | https://fluttergems.dev/calendar/ |
 | power3d | https://pub.dev/packages/power3d | https://fluttergems.dev/3d/ |
+| adaptive_shell | https://pub.dev/packages/adaptive_shell | https://fluttergems.dev/responsive-ui/ |
