@@ -96,3 +96,5 @@ Please add your package at the end of the table:
 | flutter_agenda | https://pub.dev/packages/flutter_agenda | https://fluttergems.dev/calendar/ |
 | power3d | https://pub.dev/packages/power3d | https://fluttergems.dev/3d/ |
 | adaptive_shell | https://pub.dev/packages/adaptive_shell | https://fluttergems.dev/responsive-ui/ |
+| currency_widget | https://pub.dev/packages/currency_widget | https://fluttergems.dev/country-country-code-picker/ |
+| excel_community | https://pub.dev/packages/excel_community | https://fluttergems.dev/ods-xlsx-sheets/ |
