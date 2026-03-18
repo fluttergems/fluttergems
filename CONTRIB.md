@@ -92,3 +92,4 @@ Please add your package at the end of the table:
 | textf | https://pub.dev/packages/textf | https://fluttergems.dev/emoji-rich-text/ |
 | quantify | https://pub.dev/packages/quantify | https://fluttergems.dev/math-utilities/ |
 | smart_search_list | https://pub.dev/packages/smart_search_list | https://fluttergems.dev/search-bar-apis-utilities/ |
+| custom_loading_loader | https://pub.dev/packages/custom_loading_loader | https://fluttergems.dev/indicators-loading-refresh-progress/ |
