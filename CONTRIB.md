@@ -77,3 +77,5 @@ Please add your package at the end of the table:
 | keystone_network | https://pub.dev/packages/keystone_network | https://fluttergems.dev/http-client-utilities/ |
 | api_radar | https://pub.dev/packages/api_radar | https://fluttergems.dev/http-client-utilities/ |
 | flutter_onscreen_keyboard | https://pub.dev/packages/flutter_onscreen_keyboard | https://fluttergems.dev/keyboard/ |
+| hive_box_manager | https://pub.dev/packages/hive_box_manager | https://fluttergems.dev/nosql-database/ |
+| platform_adaptive_widgets | https://pub.dev/packages/platform_adaptive_widgets | https://fluttergems.dev/widget-library-ui-framework/ |
