@@ -87,3 +87,4 @@ Please add your package at the end of the table:
 | flutter_scalable_ocr_enhanced | https://pub.dev/packages/flutter_scalable_ocr_enhanced | https://fluttergems.dev/machine-learning/ |
 | opus_codec | https://pub.dev/packages/opus_codec | https://fluttergems.dev/edit-save-compress-multimedia/ |
 | industrial_drawing_flutter | https://pub.dev/packages/industrial_drawing_flutter | https://fluttergems.dev/drawing-painting-signature/ |
+| telegram_nav_bar | https://pub.dev/packages/telegram_nav_bar | https://fluttergems.dev/bottom-navigation-bar/ |
