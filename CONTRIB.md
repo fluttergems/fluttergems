@@ -73,4 +73,23 @@ Please add your package at the end of the table:
 | in_app_review_flutter | https://pub.dev/packages/in_app_review_flutter | https://fluttergems.dev/feedback/ |
 | orient_ui | https://pub.dev/packages/orient_ui | https://fluttergems.dev/design-system/ |
 | hide_my_code | https://pub.dev/packages/hide_my_code | https://fluttergems.dev/cryptography-security-permissions/ |
-| custom_loading_loader | https://pub.dev/packages/custom_loading_loader | 
+| file_saver_ffi | https://pub.dev/packages/file_saver_ffi | https://fluttergems.dev/file-folder-path-util/ |
+| keystone_network | https://pub.dev/packages/keystone_network | https://fluttergems.dev/http-client-utilities/ |
+| api_radar | https://pub.dev/packages/api_radar | https://fluttergems.dev/http-client-utilities/ |
+| flutter_onscreen_keyboard | https://pub.dev/packages/flutter_onscreen_keyboard | https://fluttergems.dev/keyboard/ |
+| hive_box_manager | https://pub.dev/packages/hive_box_manager | https://fluttergems.dev/nosql-database/ |
+| platform_adaptive_widgets | https://pub.dev/packages/platform_adaptive_widgets | https://fluttergems.dev/widget-library-ui-framework/ |
+| phantom_wallet_connect | https://pub.dev/packages/phantom_wallet_connect | https://fluttergems.dev/web3-crypto-blockchain/ |
+| flutter_tree_graph | https://pub.dev/packages/flutter_tree_graph | https://fluttergems.dev/tree-view/ |
+| grid_sheet | https://pub.dev/packages/grid_sheet | https://fluttergems.dev/table/ |
+| rich_text_flutter | https://pub.dev/packages/rich_text_flutter | https://fluttergems.dev/richtext-markdown-editor/ |
+| permission_manager | https://pub.dev/packages/permission_manager | https://fluttergems.dev/cryptography-security-permissions/ |
+| flutter_scalable_ocr_enhanced | https://pub.dev/packages/flutter_scalable_ocr_enhanced | https://fluttergems.dev/machine-learning/ |
+| opus_codec | https://pub.dev/packages/opus_codec | https://fluttergems.dev/edit-save-compress-multimedia/ |
+| industrial_drawing_flutter | https://pub.dev/packages/industrial_drawing_flutter | https://fluttergems.dev/drawing-painting-signature/ |
+| telegram_nav_bar | https://pub.dev/packages/telegram_nav_bar | https://fluttergems.dev/bottom-navigation-bar/ |
+| vantura | https://pub.dev/packages/vantura | https://fluttergems.dev/chatgpt-llm-genai/ |
+| textf | https://pub.dev/packages/textf | https://fluttergems.dev/emoji-rich-text/ |
+| quantify | https://pub.dev/packages/quantify | https://fluttergems.dev/math-utilities/ |
+| smart_search_list | https://pub.dev/packages/smart_search_list | https://fluttergems.dev/search-bar-apis-utilities/ |
+| custom_loading_loader | https://pub.dev/packages/custom_loading_loader | https://fluttergems.dev/indicators-loading-refresh-progress/ |
