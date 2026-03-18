@@ -8,7 +8,7 @@ Please add your package at the end of the table:
 | riverpod | https://pub.dev/packages/riverpod | https://fluttergems.dev/state-management/ |
 | network_ninja | https://pub.dev/packages/network_ninja | https://fluttergems.dev/debugging-logging/ |
 | smartpub | https://pub.dev/packages/smartpub | https://fluttergems.dev/developer-tools/ |
-| instamojo_plus | https://pub.dev/packages/instamojo_plus | https://fluttergems.dev/payment/ |
+| instamojo_plus | https://pub.dev/packages/instamojo_plus | https://fluttergems.dev/payment-api-sdk/ |
 | nosmai_camera_sdk | https://pub.dev/packages/nosmai_camera_sdk | https://fluttergems.dev/camera/ |
 | flutter_indian_utils  | https://pub.dev/packages/flutter_indian_utils | https://fluttergems.dev/autoformat-masking-validation/ |
 | audio_converter_native | https://pub.dev/packages/audio_converter_native | https://fluttergems.dev/audio/ |
@@ -63,7 +63,7 @@ Please add your package at the end of the table:
 | rich_i18n | https://pub.dev/packages/rich_i18n | https://fluttergems.dev/localization-internationalization/ |
 | widget_to_html | https://pub.dev/packages/widget_to_html | https://fluttergems.dev/html-css/ |
 | resource_network_fetcher | https://pub.dev/packages/resource_network_fetcher | https://fluttergems.dev/http-client-utilities/ |
-| flutterfx_blur_fade | https://pub.dev/packages/flutterfx_blur_fade | https://fluttergems.dev/animation/ |
+| flutterfx_blur_fade | https://pub.dev/packages/flutterfx_blur_fade | https://fluttergems.dev/animation-transition/ |
 | universal_file_viewer | https://pub.dev/packages/universal_file_viewer | https://fluttergems.dev/file-folder-path-util/ |
 | dynamic_icon_changer | https://pub.dev/packages/dynamic_icon_changer | https://fluttergems.dev/home-screen-launcher-icon-name/ |
 | morph_switch | https://pub.dev/packages/morph_switch | https://fluttergems.dev/switch/ |
