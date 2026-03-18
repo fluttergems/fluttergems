@@ -94,4 +94,4 @@ Please add your package at the end of the table:
 | smart_search_list | https://pub.dev/packages/smart_search_list | https://fluttergems.dev/search-bar-apis-utilities/ |
 | custom_loading_loader | https://pub.dev/packages/custom_loading_loader | https://fluttergems.dev/indicators-loading-refresh-progress/ |
 | flutter_agenda | https://pub.dev/packages/flutter_agenda | https://fluttergems.dev/calendar/ |
-| power_3d | https://pub.dev/packages/power3d | https://fluttergems.dev/3d/ |
+| power3d | https://pub.dev/packages/power3d | https://fluttergems.dev/3d/ |
