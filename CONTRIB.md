@@ -99,3 +99,4 @@ Please add your package at the end of the table:
 | currency_widget | https://pub.dev/packages/currency_widget | https://fluttergems.dev/country-country-code-picker/ |
 | excel_community | https://pub.dev/packages/excel_community | https://fluttergems.dev/ods-xlsx-sheets/ |
 | circle_blast_transition | https://pub.dev/packages/circle_blast_transition | https://fluttergems.dev/animation-transition/ |
+| minilo_design_system | https://pub.dev/packages/minilo_design_system | https://fluttergems.dev/design-system/ |
