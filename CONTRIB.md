@@ -100,3 +100,4 @@ Please add your package at the end of the table:
 | excel_community | https://pub.dev/packages/excel_community | https://fluttergems.dev/ods-xlsx-sheets/ |
 | circle_blast_transition | https://pub.dev/packages/circle_blast_transition | https://fluttergems.dev/animation-transition/ |
 | minilo_design_system | https://pub.dev/packages/minilo_design_system | https://fluttergems.dev/design-system/ |
+| code_forge | https://pub.dev/packages/code_forge | https://fluttergems.dev/editor-syntax-highlighter/ |
