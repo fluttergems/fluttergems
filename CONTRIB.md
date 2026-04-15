@@ -101,3 +101,13 @@ Please add your package at the end of the table:
 | circle_blast_transition | https://pub.dev/packages/circle_blast_transition | https://fluttergems.dev/animation-transition/ |
 | minilo_design_system | https://pub.dev/packages/minilo_design_system | https://fluttergems.dev/design-system/ |
 | code_forge | https://pub.dev/packages/code_forge | https://fluttergems.dev/editor-syntax-highlighter/ |
+| basic_logger | https://pub.dev/packages/basic_logger | https://fluttergems.dev/debugging-logging/ |
+| basic_logger_file | https://pub.dev/packages/basic_logger_file | https://fluttergems.dev/debugging-logging/ |
+| basic_http_interceptor | https://pub.dev/packages/basic_http_interceptor | https://fluttergems.dev/http-client-utilities/ |
+| basic_message | https://pub.dev/packages/basic_message | https://fluttergems.dev/localization-internationalization/ |
+| filetools | https://pub.dev/packages/filetools | https://fluttergems.dev/cli/ |
+| wmi | https://pub.dev/packages/wmi | https://fluttergems.dev/device-utilities/ |
+| frmv | https://pub.dev/packages/frmv | https://fluttergems.dev/form/ |
+
+
+
