@@ -102,7 +102,7 @@ Please add your package at the end of the table:
 | minilo_design_system | https://pub.dev/packages/minilo_design_system | https://fluttergems.dev/design-system/ |
 | code_forge | https://pub.dev/packages/code_forge | https://fluttergems.dev/editor-syntax-highlighter/ |
 | basic_logger | https://pub.dev/packages/basic_logger | https://fluttergems.dev/debugging-logging/ |
-
+| basic_logger_file | https://pub.dev/packages/basic_logger_file | https://fluttergems.dev/debugging-logging/ |
 
 
 
