@@ -105,5 +105,6 @@ Please add your package at the end of the table:
 | basic_logger_file | https://pub.dev/packages/basic_logger_file | https://fluttergems.dev/debugging-logging/ |
 | basic_http_interceptor | https://pub.dev/packages/basic_http_interceptor | https://fluttergems.dev/http-client-utilities/ |
 | basic_message | https://pub.dev/packages/basic_message | https://fluttergems.dev/localization-internationalization/ |
+| filetools | https://pub.dev/packages/filetools | https://fluttergems.dev/cli/ |
 
 
