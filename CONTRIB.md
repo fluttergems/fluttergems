@@ -107,6 +107,7 @@ Please add your package at the end of the table:
 | basic_message | https://pub.dev/packages/basic_message | https://fluttergems.dev/localization-internationalization/ |
 | filetools | https://pub.dev/packages/filetools | https://fluttergems.dev/cli/ |
 | wmi | https://pub.dev/packages/wmi | https://fluttergems.dev/device-utilities/ |
+| frmv | https://pub.dev/packages/frmv | https://fluttergems.dev/form/ |
 
 
 
