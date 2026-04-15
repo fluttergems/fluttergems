@@ -103,6 +103,6 @@ Please add your package at the end of the table:
 | code_forge | https://pub.dev/packages/code_forge | https://fluttergems.dev/editor-syntax-highlighter/ |
 | basic_logger | https://pub.dev/packages/basic_logger | https://fluttergems.dev/debugging-logging/ |
 | basic_logger_file | https://pub.dev/packages/basic_logger_file | https://fluttergems.dev/debugging-logging/ |
-
+| basic_http_interceptor | https://pub.dev/packages/basic_http_interceptor | https://fluttergems.dev/http-client-utilities/ |
 
 
