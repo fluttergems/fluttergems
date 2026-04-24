@@ -101,3 +101,8 @@ Please add your package at the end of the table:
 | circle_blast_transition | https://pub.dev/packages/circle_blast_transition | https://fluttergems.dev/animation-transition/ |
 | minilo_design_system | https://pub.dev/packages/minilo_design_system | https://fluttergems.dev/design-system/ |
 | code_forge | https://pub.dev/packages/code_forge | https://fluttergems.dev/editor-syntax-highlighter/ |
+| smooth_onboarding | https://pub.dev/packages/smooth_onboarding | https://fluttergems.dev/onboarding-carousel/ |
+| smooth_paywall | https://pub.dev/packages/smooth_paywall | https://fluttergems.dev/payment-api-sdk/ |
+| smooth_infinite_tab_bar | https://pub.dev/packages/smooth_infinite_tab_bar | https://fluttergems.dev/tab/ |
+| smooth_charts | https://pub.dev/packages/smooth_charts | https://fluttergems.dev/plots-visualization/ |
+
