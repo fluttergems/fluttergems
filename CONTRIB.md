@@ -101,4 +101,5 @@ Please add your package at the end of the table:
 | circle_blast_transition | https://pub.dev/packages/circle_blast_transition | https://fluttergems.dev/animation-transition/ |
 | minilo_design_system | https://pub.dev/packages/minilo_design_system | https://fluttergems.dev/design-system/ |
 | code_forge | https://pub.dev/packages/code_forge | https://fluttergems.dev/editor-syntax-highlighter/ |
-| network_api_sdk | https://pub.dev/packages/network_api_sdk | https://fluttergems.dev/http-client-utilities/|
+| sh_pdf | https://pub.dev/packages/sh_pdf | https://fluttergems.dev/pdf/ |
+| network_api_sdk | https://pub.dev/packages/network_api_sdk | https://fluttergems.dev/http-client-utilities/ |
