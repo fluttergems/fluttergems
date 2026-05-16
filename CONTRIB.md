@@ -4,11 +4,6 @@ Please add your package at the end of the table:
 
 | Package Name | pub dev URL | Suggested Flutter Gems Category URL for the package (Optional) |
 | --- | --- | --- |
-| any_map | https://pub.dev/packages/any_map | https://fluttergems.dev/geolocation-maps/ |
-| any_map_maplibre | https://pub.dev/packages/any_map_maplibre | https://fluttergems.dev/geolocation-maps/ |
-| any_map_google | https://pub.dev/packages/any_map_google | https://fluttergems.dev/geolocation-maps/ |
-| any_map_osm | https://pub.dev/packages/any_map_osm | https://fluttergems.dev/geolocation-maps/ |
-| bg_orchestrator | https://pub.dev/packages/bg_orchestrator | https://fluttergems.dev/background-service/ |
 | shared_preferences | https://pub.dev/packages/shared_preferences | https://fluttergems.dev/nosql-database/ |
 | riverpod | https://pub.dev/packages/riverpod | https://fluttergems.dev/state-management/ |
 | network_ninja | https://pub.dev/packages/network_ninja | https://fluttergems.dev/debugging-logging/ |
@@ -106,3 +101,8 @@ Please add your package at the end of the table:
 | circle_blast_transition | https://pub.dev/packages/circle_blast_transition | https://fluttergems.dev/animation-transition/ |
 | minilo_design_system | https://pub.dev/packages/minilo_design_system | https://fluttergems.dev/design-system/ |
 | code_forge | https://pub.dev/packages/code_forge | https://fluttergems.dev/editor-syntax-highlighter/ |
+| any_map | https://pub.dev/packages/any_map | https://fluttergems.dev/geolocation-maps/ |
+| any_map_maplibre | https://pub.dev/packages/any_map_maplibre | https://fluttergems.dev/geolocation-maps/ |
+| any_map_google | https://pub.dev/packages/any_map_google | https://fluttergems.dev/geolocation-maps/ |
+| any_map_osm | https://pub.dev/packages/any_map_osm | https://fluttergems.dev/geolocation-maps/ |
+| bg_orchestrator | https://pub.dev/packages/bg_orchestrator | https://fluttergems.dev/android-ios/ |
