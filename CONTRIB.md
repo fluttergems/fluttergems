@@ -106,3 +106,8 @@ Please add your package at the end of the table:
 | network_api_sdk | https://pub.dev/packages/network_api_sdk | https://fluttergems.dev/http-client-utilities/ |
 | wifi_indicator | https://pub.dev/packages/wifi_indicator | https://fluttergems.dev/network-connectivity-status/ |
 | cidr | https://pub.dev/packages/cidr | https://fluttergems.dev/http-client-utilities/ |
+| any_map | https://pub.dev/packages/any_map | https://fluttergems.dev/geolocation-maps/ |
+| any_map_maplibre | https://pub.dev/packages/any_map_maplibre | https://fluttergems.dev/geolocation-maps/ |
+| any_map_google | https://pub.dev/packages/any_map_google | https://fluttergems.dev/geolocation-maps/ |
+| any_map_osm | https://pub.dev/packages/any_map_osm | https://fluttergems.dev/geolocation-maps/ |
+| bg_orchestrator | https://pub.dev/packages/bg_orchestrator | https://fluttergems.dev/android-ios/ |
