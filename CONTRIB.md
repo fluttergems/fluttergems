@@ -98,7 +98,18 @@ Please add your package at the end of the table:
 | adaptive_shell | https://pub.dev/packages/adaptive_shell | https://fluttergems.dev/responsive-ui/ |
 | currency_widget | https://pub.dev/packages/currency_widget | https://fluttergems.dev/country-country-code-picker/ |
 | excel_community | https://pub.dev/packages/excel_community | https://fluttergems.dev/ods-xlsx-sheets/ |
+| tracelet | https://pub.dev/packages/tracelet | https://fluttergems.dev/geolocation-maps/ |
 | circle_blast_transition | https://pub.dev/packages/circle_blast_transition | https://fluttergems.dev/animation-transition/ |
 | minilo_design_system | https://pub.dev/packages/minilo_design_system | https://fluttergems.dev/design-system/ |
 | code_forge | https://pub.dev/packages/code_forge | https://fluttergems.dev/editor-syntax-highlighter/ |
-| uz_car_number_picker | A highly customizable Uzbekistan car plate number picker with Glassmorphism, localization (UZ, RU, EN), and physical/legal entity support. | [pub.dev](https://pub.dev/packages/uz_car_number_picker) | [GitHub](https://github.com/Zoyidov/uz_car_number_picker) |
+| sh_pdf | https://pub.dev/packages/sh_pdf | https://fluttergems.dev/pdf/ |
+| network_api_sdk | https://pub.dev/packages/network_api_sdk | https://fluttergems.dev/http-client-utilities/ |
+| wifi_indicator | https://pub.dev/packages/wifi_indicator | https://fluttergems.dev/network-connectivity-status/ |
+| cidr | https://pub.dev/packages/cidr | https://fluttergems.dev/http-client-utilities/ |
+| any_map | https://pub.dev/packages/any_map | https://fluttergems.dev/geolocation-maps/ |
+| any_map_maplibre | https://pub.dev/packages/any_map_maplibre | https://fluttergems.dev/geolocation-maps/ |
+| any_map_google | https://pub.dev/packages/any_map_google | https://fluttergems.dev/geolocation-maps/ |
+| any_map_osm | https://pub.dev/packages/any_map_osm | https://fluttergems.dev/geolocation-maps/ |
+| bg_orchestrator | https://pub.dev/packages/bg_orchestrator | https://fluttergems.dev/android-ios/ |
+| adaptive_video_player | https://pub.dev/packages/adaptive_video_player | https://fluttergems.dev/video |
+| uz_car_number_picker | https://pub.dev/packages/uz_car_number_picker | https://fluttergems.dev/generic-picker/ |
