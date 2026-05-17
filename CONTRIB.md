@@ -146,3 +146,4 @@ Please add your package at the end of the table:
 | formrules | https://pub.dev/packages/formrules | https://fluttergems.dev/form/ |
 | adtogether_sdk | https://pub.dev/packages/adtogether_sdk | https://fluttergems.dev/ad-serving/ |
 | moarch | https://pub.dev/packages/moarch | https://fluttergems.dev/flutter-framework/ |
+| auth_uae_pass | https://pub.dev/packages/auth_uae_pass | https://fluttergems.dev/cryptography-security-permissions/ |
