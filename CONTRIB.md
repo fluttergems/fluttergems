@@ -121,3 +121,4 @@ Please add your package at the end of the table:
 | advanced_pagination | https://pub.dev/packages/advanced_pagination | https://fluttergems.dev/pagination-lazy-loading/ |
 | flutter_smart_editor | https://pub.dev/packages/flutter_smart_editor | https://fluttergems.dev/richtext-markdown-editor/ |
 | neshan_maps_flutter | https://pub.dev/packages/neshan_maps_flutter | https://fluttergems.dev/geolocation-maps/ |
+| ms_store_trial | https://pub.dev/packages/ms_store_trial | https://fluttergems.dev/packaging-publishing/ |
