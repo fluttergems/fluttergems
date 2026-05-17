@@ -117,3 +117,4 @@ Please add your package at the end of the table:
 | url_launcher_utils | https://pub.dev/packages/url_launcher_utils | https://fluttergems.dev/sharing-intent/ |
 | connectivity_control | https://pub.dev/packages/connectivity_control | https://fluttergems.dev/network-connectivity-status/ |
 | banner_slide | https://pub.dev/packages/banner_slider | https://fluttergems.dev/carousel-cover-flow |
+| in_app_update_flutter | https://pub.dev/packages/in_app_update_flutter | https://fluttergems.dev/app-update/ |
