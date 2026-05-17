@@ -122,3 +122,10 @@ Please add your package at the end of the table:
 | flutter_smart_editor | https://pub.dev/packages/flutter_smart_editor | https://fluttergems.dev/richtext-markdown-editor/ |
 | neshan_maps_flutter | https://pub.dev/packages/neshan_maps_flutter | https://fluttergems.dev/geolocation-maps/ |
 | ms_store_trial | https://pub.dev/packages/ms_store_trial | https://fluttergems.dev/packaging-publishing/ |
+| basic_logger | https://pub.dev/packages/basic_logger | https://fluttergems.dev/debugging-logging/ |
+| basic_logger_file | https://pub.dev/packages/basic_logger_file | https://fluttergems.dev/debugging-logging/ |
+| basic_http_interceptor | https://pub.dev/packages/basic_http_interceptor | https://fluttergems.dev/http-client-utilities/ |
+| basic_message | https://pub.dev/packages/basic_message | https://fluttergems.dev/localization-internationalization/ |
+| filetools | https://pub.dev/packages/filetools | https://fluttergems.dev/cli/ |
+| wmi | https://pub.dev/packages/wmi | https://fluttergems.dev/windows/ |
+| frmv | https://pub.dev/packages/frmv | https://fluttergems.dev/autoformat-masking-validation/ |
