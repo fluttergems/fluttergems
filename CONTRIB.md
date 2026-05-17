@@ -138,3 +138,4 @@ Please add your package at the end of the table:
 | smooth_infinite_tab_bar | https://pub.dev/packages/smooth_infinite_tab_bar | https://fluttergems.dev/tab/ |
 | smooth_charts | https://pub.dev/packages/smooth_charts | https://fluttergems.dev/plots-visualization/ |
 | fdb | https://pub.dev/packages/fdb | https://fluttergems.dev/cli/ |
+| ticketcher | https://pub.dev/packages/ticketcher | https://fluttergems.dev/clipper-decoration/ |
