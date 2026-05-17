@@ -140,3 +140,4 @@ Please add your package at the end of the table:
 | smooth_charts | https://pub.dev/packages/smooth_charts | https://fluttergems.dev/plots-visualization/ |
 | fdb | https://pub.dev/packages/fdb | https://fluttergems.dev/cli/ |
 | ticketcher | https://pub.dev/packages/ticketcher | https://fluttergems.dev/clipper-decoration/ |
+| ipados_menu_bar | https://pub.dev/packages/ipados_menu_bar | https://fluttergems.dev/menu/ |
