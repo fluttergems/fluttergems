@@ -118,3 +118,4 @@ Please add your package at the end of the table:
 | connectivity_control | https://pub.dev/packages/connectivity_control | https://fluttergems.dev/network-connectivity-status/ |
 | banner_slide | https://pub.dev/packages/banner_slider | https://fluttergems.dev/carousel-cover-flow |
 | in_app_update_flutter | https://pub.dev/packages/in_app_update_flutter | https://fluttergems.dev/app-update/ |
+| advanced_pagination | https://pub.dev/packages/advanced_pagination | https://fluttergems.dev/pagination-lazy-loading/ |
