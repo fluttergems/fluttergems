@@ -115,3 +115,4 @@ Please add your package at the end of the table:
 | adaptive_video_player | https://pub.dev/packages/adaptive_video_player | https://fluttergems.dev/video/ |
 | uz_car_number_picker | https://pub.dev/packages/uz_car_number_picker | https://fluttergems.dev/generic-picker/ |
 | url_launcher_utils | https://pub.dev/packages/url_launcher_utils | https://fluttergems.dev/sharing-intent/ |
+| connectivity_control | https://pub.dev/packages/connectivity_control | https://fluttergems.dev/network-connectivity-status/ |
