@@ -119,3 +119,4 @@ Please add your package at the end of the table:
 | banner_slide | https://pub.dev/packages/banner_slider | https://fluttergems.dev/carousel-cover-flow |
 | in_app_update_flutter | https://pub.dev/packages/in_app_update_flutter | https://fluttergems.dev/app-update/ |
 | advanced_pagination | https://pub.dev/packages/advanced_pagination | https://fluttergems.dev/pagination-lazy-loading/ |
+| flutter_smart_editor | https://pub.dev/packages/flutter_smart_editor | https://fluttergems.dev/richtext-markdown-editor/ |
