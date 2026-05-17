@@ -129,3 +129,4 @@ Please add your package at the end of the table:
 | filetools | https://pub.dev/packages/filetools | https://fluttergems.dev/cli/ |
 | wmi | https://pub.dev/packages/wmi | https://fluttergems.dev/windows/ |
 | frmv | https://pub.dev/packages/frmv | https://fluttergems.dev/autoformat-masking-validation/ |
+| magika_dart | https://pub.dev/packages/magika_dart | https://fluttergems.dev/file-folder-path-util/ |
