@@ -142,3 +142,5 @@ Please add your package at the end of the table:
 | ticketcher | https://pub.dev/packages/ticketcher | https://fluttergems.dev/clipper-decoration/ |
 | ipados_menu_bar | https://pub.dev/packages/ipados_menu_bar | https://fluttergems.dev/menu/ |
 | hover_magnifier | https://pub.dev/packages/hover_magnifier | https://fluttergems.dev/image/ |
+| formrules | https://pub.dev/packages/formrules | https://fluttergems.dev/autoformat-masking-validation/ |
+| formrules | https://pub.dev/packages/formrules | https://fluttergems.dev/form/ |
