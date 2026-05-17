@@ -130,3 +130,5 @@ Please add your package at the end of the table:
 | wmi | https://pub.dev/packages/wmi | https://fluttergems.dev/windows/ |
 | frmv | https://pub.dev/packages/frmv | https://fluttergems.dev/autoformat-masking-validation/ |
 | magika_dart | https://pub.dev/packages/magika_dart | https://fluttergems.dev/file-folder-path-util/ |
+| flutter_local_agent_kit | https://pub.dev/packages/flutter_local_agent_kit | https://fluttergems.dev/chatgpt-llm-genai/ |
+
