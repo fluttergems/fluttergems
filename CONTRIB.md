@@ -10,7 +10,7 @@ Please add your package at the end of the table:
 | smartpub | https://pub.dev/packages/smartpub | https://fluttergems.dev/developer-tools/ |
 | instamojo_plus | https://pub.dev/packages/instamojo_plus | https://fluttergems.dev/payment-api-sdk/ |
 | nosmai_camera_sdk | https://pub.dev/packages/nosmai_camera_sdk | https://fluttergems.dev/camera/ |
-| full_svg_flutter | https://pub.dev/packages/full_svg_flutter | https://fluttergems.dev/full_svg_flutter/ |
+| full_svg_flutter | https://pub.dev/packages/full_svg_flutter | https://fluttergems.dev/animation-transition/ |
 | flutter_indian_utils  | https://pub.dev/packages/flutter_indian_utils | https://fluttergems.dev/autoformat-masking-validation/ |
 | audio_converter_native | https://pub.dev/packages/audio_converter_native | https://fluttergems.dev/audio/ |
 | guideline_cam | https://pub.dev/packages/guideline_cam | https://fluttergems.dev/camera/ |
