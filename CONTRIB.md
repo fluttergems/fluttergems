@@ -133,3 +133,7 @@ Please add your package at the end of the table:
 | flutter_local_agent_kit | https://pub.dev/packages/flutter_local_agent_kit | https://fluttergems.dev/chatgpt-llm-genai/ |
 | space_gen | https://pub.dev/packages/space_gen | https://fluttergems.dev/openapi/ |
 | any_image | https://pub.dev/packages/any_image | https://fluttergems.dev/image/ |
+| smooth_onboarding | https://pub.dev/packages/smooth_onboarding | https://fluttergems.dev/onboarding-carousel/ |
+| smooth_paywall | https://pub.dev/packages/smooth_paywall | https://fluttergems.dev/payment-api-sdk/ |
+| smooth_infinite_tab_bar | https://pub.dev/packages/smooth_infinite_tab_bar | https://fluttergems.dev/tab/ |
+| smooth_charts | https://pub.dev/packages/smooth_charts | https://fluttergems.dev/plots-visualization/ |
