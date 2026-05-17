@@ -111,3 +111,4 @@ Please add your package at the end of the table:
 | any_map_google | https://pub.dev/packages/any_map_google | https://fluttergems.dev/geolocation-maps/ |
 | any_map_osm | https://pub.dev/packages/any_map_osm | https://fluttergems.dev/geolocation-maps/ |
 | bg_orchestrator | https://pub.dev/packages/bg_orchestrator | https://fluttergems.dev/android-ios/ |
+| adaptive_video_player | https://pub.dev/packages/adaptive_video_player | https://fluttergems.dev/video |
