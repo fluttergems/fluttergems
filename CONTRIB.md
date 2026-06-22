@@ -148,3 +148,9 @@ Please add your package at the end of the table:
 | moarch | https://pub.dev/packages/moarch | https://fluttergems.dev/flutter-framework/ |
 | auth_uae_pass | https://pub.dev/packages/auth_uae_pass | https://fluttergems.dev/cryptography-security-permissions/ |
 | thai_address_plus | https://pub.dev/packages/thai_address_plus | https://fluttergems.dev/location-place-address-picker/ |
+| streamdown | https://pub.dev/packages/streamdown |  |
+| paywall_kit | https://pub.dev/packages/paywall_kit |  |
+| llm_meter | https://pub.dev/packages/llm_meter |  |
+| agent_kit | https://pub.dev/packages/agent_kit |  |
+| liquid_glass_hig | https://pub.dev/packages/liquid_glass_hig |  |
+| flutter_lighthouse | https://pub.dev/packages/flutter_lighthouse |  |
