@@ -148,3 +148,5 @@ Please add your package at the end of the table:
 | moarch | https://pub.dev/packages/moarch | https://fluttergems.dev/flutter-framework/ |
 | auth_uae_pass | https://pub.dev/packages/auth_uae_pass | https://fluttergems.dev/cryptography-security-permissions/ |
 | thai_address_plus | https://pub.dev/packages/thai_address_plus | https://fluttergems.dev/location-place-address-picker/ |
+| agenix | https://pub.dev/packages/agenix | https://fluttergems.dev/chatgpt-llm-genai/ |
+| agenix_firebase | https://pub.dev/packages/agenix_firebase | https://fluttergems.dev/firebase/ |
