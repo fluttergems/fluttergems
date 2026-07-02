@@ -148,3 +148,4 @@ Please add your package at the end of the table:
 | moarch | https://pub.dev/packages/moarch | https://fluttergems.dev/flutter-framework/ |
 | auth_uae_pass | https://pub.dev/packages/auth_uae_pass | https://fluttergems.dev/cryptography-security-permissions/ |
 | thai_address_plus | https://pub.dev/packages/thai_address_plus | https://fluttergems.dev/location-place-address-picker/ |
+| voip_audio_route_manager | https://pub.dev/packages/voip_audio_route_manager | https://fluttergems.dev/voip_audio_route_manager/ |
