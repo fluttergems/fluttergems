@@ -159,3 +159,5 @@ Please add your package at the end of the table:
 | flow_ui_datatable | https://pub.dev/packages/flow_ui_datatable | https://fluttergems.dev/table/ |
 | like | https://pub.dev/packages/like | https://fluttergems.dev/http-client-utilities/ |
 | like_devtool | https://pub.dev/packages/like_devtool | https://fluttergems.dev/http-client-utilities/ |
+| zema | https://pub.dev/packages/zema | https://fluttergems.dev/language-extension-enhancement/ |
+| qora | https://pub.dev/packages/qora | https://fluttergems.dev/state-management/ |
