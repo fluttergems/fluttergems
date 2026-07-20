@@ -148,4 +148,5 @@ Please add your package at the end of the table:
 | moarch | https://pub.dev/packages/moarch | https://fluttergems.dev/flutter-framework/ |
 | auth_uae_pass | https://pub.dev/packages/auth_uae_pass | https://fluttergems.dev/cryptography-security-permissions/ |
 | thai_address_plus | https://pub.dev/packages/thai_address_plus | https://fluttergems.dev/location-place-address-picker/ |
-| secure_env | https://pub.dev/packages/thai_address_plus | https://fluttergems.dev/cryptography-security-permissions/ |
+| flutter_blackbox | https://pub.dev/packages/flutter_blackbox | https://fluttergems.dev/debugging-logging/ |
+| secure_env | https://pub.dev/packages/thai_address_plus | https://fluttergems.dev/location-place-address-picker/ |
