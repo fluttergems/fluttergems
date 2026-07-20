@@ -161,3 +161,4 @@ Please add your package at the end of the table:
 | like_devtool | https://pub.dev/packages/like_devtool | https://fluttergems.dev/http-client-utilities/ |
 | zema | https://pub.dev/packages/zema | https://fluttergems.dev/language-extension-enhancement/ |
 | qora | https://pub.dev/packages/qora | https://fluttergems.dev/state-management/ |
+| papyrus | https://pub.dev/packages/papyrus | https://fluttergems.dev/webview/ |
