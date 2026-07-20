@@ -189,3 +189,4 @@ Please add your package at the end of the table:
 | voip_audio_route_manager | https://pub.dev/packages/voip_audio_route_manager | https://fluttergems.dev/real-time-communication/ |
 | sfwf | https://pub.dev/packages/sfwf | https://fluttergems.dev/web-server/ |
 | precise_compass  | https://pub.dev/packages/precise_compass | https://fluttergems.dev/sensors/ |
+| x_user_agent | https://pub.dev/packages/x_user_agent | https://fluttergems.dev/http-client-utilities/ |
