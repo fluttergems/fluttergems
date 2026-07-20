@@ -184,3 +184,4 @@ Please add your package at the end of the table:
 | agenix | https://pub.dev/packages/agenix | https://fluttergems.dev/chatgpt-llm-genai/ |
 | agenix_firebase | https://pub.dev/packages/agenix_firebase | https://fluttergems.dev/firebase/ |
 | mcp_playground_flutter | https://pub.dev/packages/mcp_playground_flutter | https://fluttergems.dev/chatgpt-llm-genai/ |
+| dart_pdf_editor | https://pub.dev/packages/dart_pdf_editor | https://fluttergems.dev/pdf/ |
