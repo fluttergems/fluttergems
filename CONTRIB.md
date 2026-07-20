@@ -152,3 +152,4 @@ Please add your package at the end of the table:
 | secure_env | https://pub.dev/packages/secure_env | https://fluttergems.dev/cryptography-security-permissions/ |
 | thai_address_plus | https://pub.dev/packages/thai_address_plus | https://fluttergems.dev/location-place-address-picker/ |
 | smooth_ios_style_toggle | https://pub.dev/packages/smooth_ios_style_toggle | https://fluttergems.dev/switch/ |
+| loam | https://pub.dev/packages/loam | https://fluttergems.dev/developer-tools/ |
