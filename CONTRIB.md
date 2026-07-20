@@ -191,3 +191,4 @@ Please add your package at the end of the table:
 | precise_compass  | https://pub.dev/packages/precise_compass | https://fluttergems.dev/sensors/ |
 | x_user_agent | https://pub.dev/packages/x_user_agent | https://fluttergems.dev/http-client-utilities/ |
 | uxlens_sdk | https://pub.dev/packages/uxlens_sdk | https://fluttergems.dev/analytics-consumer-insights/ |
+| flutter_easy_seo | https://pub.dev/packages/flutter_easy_seo | https://fluttergems.dev/web/ |
