@@ -180,3 +180,4 @@ Please add your package at the end of the table:
 | degenerate | https://pub.dev/packages/degenerate | https://fluttergems.dev/openapi/ |
 | release_to_trigger | https://pub.dev/packages/release_to_trigger | https://fluttergems.dev/indicators-loading-refresh-progress/ |
 | easy_radial_gradient | https://pub.dev/packages/easy_radial_gradient | https://fluttergems.dev/effects-gradients-shaders/ |
+| mih_package_toolkit | https://pub.dev/packages/mih_package_toolkit | https://fluttergems.dev/flutter-framework/ |
