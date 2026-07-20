@@ -193,3 +193,4 @@ Please add your package at the end of the table:
 | uxlens_sdk | https://pub.dev/packages/uxlens_sdk | https://fluttergems.dev/analytics-consumer-insights/ |
 | flutter_easy_seo | https://pub.dev/packages/flutter_easy_seo | https://fluttergems.dev/web/ |
 | flutter_storage_inspector | https://pub.dev/packages/flutter_storage_inspector | https://fluttergems.dev/developer-tools/ |
+| admob_flutter_plus | https://pub.dev/packages/admob_flutter_plus | https://fluttergems.dev/ad-serving/ |
