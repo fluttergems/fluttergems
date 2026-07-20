@@ -169,3 +169,9 @@ Please add your package at the end of the table:
 | chips_auto_scroll | https://pub.dev/packages/chips_auto_scroll | https://fluttergems.dev/chip-tag/ |
 | auto_shimmer_animate | https://pub.dev/packages/auto_shimmer_animate | https://fluttergems.dev/placeholder/ |
 | bokeh_lava_gradient | https://pub.dev/packages/bokeh_lava_gradient | https://fluttergems.dev/effects-gradients-shaders/ |
+| streamdown | https://pub.dev/packages/streamdown | https://fluttergems.dev/markdown/ |
+| paywall_kit | https://pub.dev/packages/paywall_kit | https://fluttergems.dev/payment-api-sdk/ |
+| llm_meter | https://pub.dev/packages/llm_meter | https://fluttergems.dev/chatgpt-llm-genai/ |
+| agent_kit | https://pub.dev/packages/agent_kit | https://fluttergems.dev/chatgpt-llm-genai/ |
+| liquid_glass_hig | https://pub.dev/packages/liquid_glass_hig | https://fluttergems.dev/glassmorphic-ui/ |
+| flutter_lighthouse | https://pub.dev/packages/flutter_lighthouse | https://fluttergems.dev/developer-tools/ |
