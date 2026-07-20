@@ -178,3 +178,4 @@ Please add your package at the end of the table:
 | text_sight | https://pub.dev/packages/text_sight | https://fluttergems.dev/machine-learning/ |
 | better_internet_connectivity_checker | https://pub.dev/packages/better_internet_connectivity_checker | https://fluttergems.dev/network-connectivity-status/ |
 | degenerate | https://pub.dev/packages/degenerate | https://fluttergems.dev/openapi/ |
+| release_to_trigger | https://pub.dev/packages/release_to_trigger | https://fluttergems.dev/indicators-loading-refresh-progress/ |
