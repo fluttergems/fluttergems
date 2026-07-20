@@ -163,3 +163,4 @@ Please add your package at the end of the table:
 | qora | https://pub.dev/packages/qora | https://fluttergems.dev/state-management/ |
 | papyrus | https://pub.dev/packages/papyrus | https://fluttergems.dev/webview/ |
 | sqflite_db_inspector | https://pub.dev/packages/sqflite_db_inspector | https://fluttergems.dev/sql-database/ |
+| collapsible_side_menu | https://pub.dev/packages/collapsible_side_menu | https://fluttergems.dev/drawer/ |
