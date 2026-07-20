@@ -177,3 +177,4 @@ Please add your package at the end of the table:
 | flutter_lighthouse | https://pub.dev/packages/flutter_lighthouse | https://fluttergems.dev/developer-tools/ |
 | text_sight | https://pub.dev/packages/text_sight | https://fluttergems.dev/machine-learning/ |
 | better_internet_connectivity_checker | https://pub.dev/packages/better_internet_connectivity_checker | https://fluttergems.dev/network-connectivity-status/ |
+| degenerate | https://pub.dev/packages/degenerate | https://fluttergems.dev/openapi/ |
