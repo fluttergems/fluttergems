@@ -176,3 +176,4 @@ Please add your package at the end of the table:
 | liquid_glass_hig | https://pub.dev/packages/liquid_glass_hig | https://fluttergems.dev/glassmorphic-ui/ |
 | flutter_lighthouse | https://pub.dev/packages/flutter_lighthouse | https://fluttergems.dev/developer-tools/ |
 | text_sight | https://pub.dev/packages/text_sight | https://fluttergems.dev/machine-learning/ |
+| better_internet_connectivity_checker | https://pub.dev/packages/better_internet_connectivity_checker | https://fluttergems.dev/network-connectivity-status/ |
