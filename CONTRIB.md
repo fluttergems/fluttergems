@@ -155,3 +155,4 @@ Please add your package at the end of the table:
 | loam | https://pub.dev/packages/loam | https://fluttergems.dev/developer-tools/ |
 | screen_capture_detector | https://pub.dev/packages/screen_capture_detector | https://fluttergems.dev/device-preview-screenshot/ |
 | whatsapp_chat_sdk | https://pub.dev/packages/whatsapp_chat_sdk | https://fluttergems.dev/chat/ |
+| sheetifye | https://pub.dev/packages/sheetifye | https://fluttergems.dev/ods-xlsx-sheets/ |
