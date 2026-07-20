@@ -164,3 +164,4 @@ Please add your package at the end of the table:
 | papyrus | https://pub.dev/packages/papyrus | https://fluttergems.dev/webview/ |
 | sqflite_db_inspector | https://pub.dev/packages/sqflite_db_inspector | https://fluttergems.dev/sql-database/ |
 | collapsible_side_menu | https://pub.dev/packages/collapsible_side_menu | https://fluttergems.dev/drawer/ |
+| flutter_smartgen | https://pub.dev/packages/flutter_smartgen | https://fluttergems.dev/cli/ |
