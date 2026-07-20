@@ -154,3 +154,4 @@ Please add your package at the end of the table:
 | smooth_ios_style_toggle | https://pub.dev/packages/smooth_ios_style_toggle | https://fluttergems.dev/switch/ |
 | loam | https://pub.dev/packages/loam | https://fluttergems.dev/developer-tools/ |
 | screen_capture_detector | https://pub.dev/packages/screen_capture_detector | https://fluttergems.dev/device-preview-screenshot/ |
+| whatsapp_chat_sdk | https://pub.dev/packages/whatsapp_chat_sdk | https://fluttergems.dev/chat/ |
