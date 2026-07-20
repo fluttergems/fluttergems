@@ -162,3 +162,4 @@ Please add your package at the end of the table:
 | zema | https://pub.dev/packages/zema | https://fluttergems.dev/language-extension-enhancement/ |
 | qora | https://pub.dev/packages/qora | https://fluttergems.dev/state-management/ |
 | papyrus | https://pub.dev/packages/papyrus | https://fluttergems.dev/webview/ |
+| sqflite_db_inspector | https://pub.dev/packages/sqflite_db_inspector | https://fluttergems.dev/sql-database/ |
