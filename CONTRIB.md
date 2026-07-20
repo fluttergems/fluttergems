@@ -188,3 +188,4 @@ Please add your package at the end of the table:
 | motion_sickness_stabilizer | https://pub.dev/packages/motion_sickness_stabilizer | https://fluttergems.dev/sensors/ |
 | voip_audio_route_manager | https://pub.dev/packages/voip_audio_route_manager | https://fluttergems.dev/real-time-communication/ |
 | sfwf | https://pub.dev/packages/sfwf | https://fluttergems.dev/web-server/ |
+| precise_compass  | https://pub.dev/packages/precise_compass | https://fluttergems.dev/sensors/ |
