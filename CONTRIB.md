@@ -192,3 +192,4 @@ Please add your package at the end of the table:
 | x_user_agent | https://pub.dev/packages/x_user_agent | https://fluttergems.dev/http-client-utilities/ |
 | uxlens_sdk | https://pub.dev/packages/uxlens_sdk | https://fluttergems.dev/analytics-consumer-insights/ |
 | flutter_easy_seo | https://pub.dev/packages/flutter_easy_seo | https://fluttergems.dev/web/ |
+| flutter_storage_inspector | https://pub.dev/packages/flutter_storage_inspector | https://fluttergems.dev/developer-tools/ |
