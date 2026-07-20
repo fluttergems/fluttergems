@@ -179,3 +179,4 @@ Please add your package at the end of the table:
 | better_internet_connectivity_checker | https://pub.dev/packages/better_internet_connectivity_checker | https://fluttergems.dev/network-connectivity-status/ |
 | degenerate | https://pub.dev/packages/degenerate | https://fluttergems.dev/openapi/ |
 | release_to_trigger | https://pub.dev/packages/release_to_trigger | https://fluttergems.dev/indicators-loading-refresh-progress/ |
+| easy_radial_gradient | https://pub.dev/packages/easy_radial_gradient | https://fluttergems.dev/effects-gradients-shaders/ |
