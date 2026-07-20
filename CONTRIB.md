@@ -195,3 +195,4 @@ Please add your package at the end of the table:
 | flutter_storage_inspector | https://pub.dev/packages/flutter_storage_inspector | https://fluttergems.dev/developer-tools/ |
 | admob_flutter_plus | https://pub.dev/packages/admob_flutter_plus | https://fluttergems.dev/ad-serving/ |
 | liquid_drop_nav_bar | https://pub.dev/packages/liquid_drop_nav_bar | https://fluttergems.dev/bottom-navigation-bar/ |
+| reel_text | https://pub.dev/packages/reel_text | https://fluttergems.dev/text-decoration-effect-animation/ |
