@@ -166,3 +166,4 @@ Please add your package at the end of the table:
 | collapsible_side_menu | https://pub.dev/packages/collapsible_side_menu | https://fluttergems.dev/drawer/ |
 | flutter_smartgen | https://pub.dev/packages/flutter_smartgen | https://fluttergems.dev/cli/ |
 | chips_auto_scroll | https://pub.dev/packages/chips_auto_scroll | https://fluttergems.dev/chip-tag/ |
+| auto_shimmer_animate | https://pub.dev/packages/auto_shimmer_animate | https://fluttergems.dev/placeholder/ |
