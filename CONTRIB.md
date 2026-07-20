@@ -167,3 +167,4 @@ Please add your package at the end of the table:
 | flutter_smartgen | https://pub.dev/packages/flutter_smartgen | https://fluttergems.dev/cli/ |
 | chips_auto_scroll | https://pub.dev/packages/chips_auto_scroll | https://fluttergems.dev/chip-tag/ |
 | auto_shimmer_animate | https://pub.dev/packages/auto_shimmer_animate | https://fluttergems.dev/placeholder/ |
+| bokeh_lava_gradient | https://pub.dev/packages/bokeh_lava_gradient | https://fluttergems.dev/effects-gradients-shaders/ |
