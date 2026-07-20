@@ -183,3 +183,4 @@ Please add your package at the end of the table:
 | mih_package_toolkit | https://pub.dev/packages/mih_package_toolkit | https://fluttergems.dev/flutter-framework/ |
 | agenix | https://pub.dev/packages/agenix | https://fluttergems.dev/chatgpt-llm-genai/ |
 | agenix_firebase | https://pub.dev/packages/agenix_firebase | https://fluttergems.dev/firebase/ |
+| mcp_playground_flutter | https://pub.dev/packages/mcp_playground_flutter | https://fluttergems.dev/chatgpt-llm-genai/ |
