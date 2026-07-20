@@ -181,3 +181,5 @@ Please add your package at the end of the table:
 | release_to_trigger | https://pub.dev/packages/release_to_trigger | https://fluttergems.dev/indicators-loading-refresh-progress/ |
 | easy_radial_gradient | https://pub.dev/packages/easy_radial_gradient | https://fluttergems.dev/effects-gradients-shaders/ |
 | mih_package_toolkit | https://pub.dev/packages/mih_package_toolkit | https://fluttergems.dev/flutter-framework/ |
+| agenix | https://pub.dev/packages/agenix | https://fluttergems.dev/chatgpt-llm-genai/ |
+| agenix_firebase | https://pub.dev/packages/agenix_firebase | https://fluttergems.dev/firebase/ |
