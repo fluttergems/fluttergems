@@ -156,3 +156,4 @@ Please add your package at the end of the table:
 | screen_capture_detector | https://pub.dev/packages/screen_capture_detector | https://fluttergems.dev/device-preview-screenshot/ |
 | whatsapp_chat_sdk | https://pub.dev/packages/whatsapp_chat_sdk | https://fluttergems.dev/chat/ |
 | sheetifye | https://pub.dev/packages/sheetifye | https://fluttergems.dev/ods-xlsx-sheets/ |
+| flow_ui_datatable | https://pub.dev/packages/flow_ui_datatable | https://fluttergems.dev/table/ |
