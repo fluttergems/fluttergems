@@ -149,4 +149,5 @@ Please add your package at the end of the table:
 | auth_uae_pass | https://pub.dev/packages/auth_uae_pass | https://fluttergems.dev/cryptography-security-permissions/ |
 | thai_address_plus | https://pub.dev/packages/thai_address_plus | https://fluttergems.dev/location-place-address-picker/ |
 | flutter_blackbox | https://pub.dev/packages/flutter_blackbox | https://fluttergems.dev/debugging-logging/ |
-| secure_env | https://pub.dev/packages/thai_address_plus | https://fluttergems.dev/location-place-address-picker/ |
+| secure_env | https://pub.dev/packages/secure_env | https://fluttergems.dev/cryptography-security-permissions/ |
+| thai_address_plus | https://pub.dev/packages/thai_address_plus | https://fluttergems.dev/location-place-address-picker/ |
