@@ -148,4 +148,13 @@ Please add your package at the end of the table:
 | moarch | https://pub.dev/packages/moarch | https://fluttergems.dev/flutter-framework/ |
 | auth_uae_pass | https://pub.dev/packages/auth_uae_pass | https://fluttergems.dev/cryptography-security-permissions/ |
 | thai_address_plus | https://pub.dev/packages/thai_address_plus | https://fluttergems.dev/location-place-address-picker/ |
+| flutter_blackbox | https://pub.dev/packages/flutter_blackbox | https://fluttergems.dev/debugging-logging/ |
+| secure_env | https://pub.dev/packages/secure_env | https://fluttergems.dev/cryptography-security-permissions/ |
+| thai_address_plus | https://pub.dev/packages/thai_address_plus | https://fluttergems.dev/location-place-address-picker/ |
+| smooth_ios_style_toggle | https://pub.dev/packages/smooth_ios_style_toggle | https://fluttergems.dev/switch/ |
+| loam | https://pub.dev/packages/loam | https://fluttergems.dev/developer-tools/ |
+| screen_capture_detector | https://pub.dev/packages/screen_capture_detector | https://fluttergems.dev/device-preview-screenshot/ |
+| whatsapp_chat_sdk | https://pub.dev/packages/whatsapp_chat_sdk | https://fluttergems.dev/chat/ |
+| sheetifye | https://pub.dev/packages/sheetifye | https://fluttergems.dev/ods-xlsx-sheets/ |
+| flow_ui_datatable | https://pub.dev/packages/flow_ui_datatable | https://fluttergems.dev/table/ |
 | like_devtool | https://pub.dev/packages/like_devtool | https://fluttergems.dev/developer-tools/ |
