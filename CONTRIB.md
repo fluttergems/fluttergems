@@ -157,3 +157,4 @@ Please add your package at the end of the table:
 | whatsapp_chat_sdk | https://pub.dev/packages/whatsapp_chat_sdk | https://fluttergems.dev/chat/ |
 | sheetifye | https://pub.dev/packages/sheetifye | https://fluttergems.dev/ods-xlsx-sheets/ |
 | flow_ui_datatable | https://pub.dev/packages/flow_ui_datatable | https://fluttergems.dev/table/ |
+| like_devtool | https://pub.dev/packages/like_devtool | https://fluttergems.dev/developer-tools/ |
