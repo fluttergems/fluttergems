@@ -5,6 +5,7 @@ Please add your package at the end of the table:
 | Package Name | pub dev URL | Suggested Flutter Gems Category URL for the package (Optional) |
 | --- | --- | --- |
 | shared_preferences | https://pub.dev/packages/shared_preferences | https://fluttergems.dev/nosql-database/ |
+| validator_kit | https://pub.dev/packages/validator_kit | https://fluttergems.dev/form/ | 
 | riverpod | https://pub.dev/packages/riverpod | https://fluttergems.dev/state-management/ |
 | llm_sdk | https://pub.dev/packages/llm_sdk | https://fluttergems.dev/chatgpt-llm-genai/ |
 | network_ninja | https://pub.dev/packages/network_ninja | https://fluttergems.dev/debugging-logging/ |
