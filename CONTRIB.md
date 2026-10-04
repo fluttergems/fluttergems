@@ -195,3 +195,9 @@ Please add your package at the end of the table:
 | flutter_storage_inspector | https://pub.dev/packages/flutter_storage_inspector | https://fluttergems.dev/developer-tools/ |
 | admob_flutter_plus | https://pub.dev/packages/admob_flutter_plus | https://fluttergems.dev/ad-serving/ |
 | liquid_drop_nav_bar | https://pub.dev/packages/liquid_drop_nav_bar | https://fluttergems.dev/bottom-navigation-bar/ |
+| google_places_kit | https://pub.dev/packages/google_places_kit | https://fluttergems.dev/location-place-address-picker/ |
+| auto_size_text_kit | https://pub.dev/packages/auto_size_text_kit | https://fluttergems.dev/autoformat-masking-validation/ |
+| butter_toast | https://pub.dev/packages/butter_toast | https://fluttergems.dev/notification-toast/ |
+| figma_glass | https://pub.dev/packages/figma_glass | https://fluttergems.dev/glassmorphic-ui/ |
+| android_sign_in_kit | https://pub.dev/packages/android_sign_in_kit | https://fluttergems.dev/authentication/ |
+| android_otp_kit | https://pub.dev/packages/android_otp_kit | https://fluttergems.dev/pin-password-field/ |
