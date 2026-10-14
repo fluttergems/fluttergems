@@ -196,3 +196,4 @@ Please add your package at the end of the table:
 | admob_flutter_plus | https://pub.dev/packages/admob_flutter_plus | https://fluttergems.dev/ad-serving/ |
 | liquid_drop_nav_bar | https://pub.dev/packages/liquid_drop_nav_bar | https://fluttergems.dev/bottom-navigation-bar/ |
 | flutter_spatial_navigation | https://pub.dev/packages/flutter_spatial_navigation | https://github.com/pravinkumarravi/flutter_spatial_navigation/ |
+| netsuite_connector | https://pub.dev/packages/netsuite_connector | https://github.com/primetecsol/netsuite_connector/ |
