@@ -195,6 +195,7 @@ Please add your package at the end of the table:
 | flutter_storage_inspector | https://pub.dev/packages/flutter_storage_inspector | https://fluttergems.dev/developer-tools/ |
 | admob_flutter_plus | https://pub.dev/packages/admob_flutter_plus | https://fluttergems.dev/ad-serving/ |
 | liquid_drop_nav_bar | https://pub.dev/packages/liquid_drop_nav_bar | https://fluttergems.dev/bottom-navigation-bar/ |
+| flutter_device_imei | https://pub.dev/packages/flutter_device_imei | https://fluttergems.dev/android-ios/ |
 | pushengage_flutter_sdk | https://pub.dev/packages/pushengage_flutter_sdk | https://fluttergems.dev/messaging-push-notification/ |
 | apple_foundation_models | https://pub.dev/packages/apple_foundation_models | https://fluttergems.dev/chatgpt-llm-genai/ |
 | apple_intelligence | https://pub.dev/packages/apple_intelligence | https://fluttergems.dev/chatgpt-llm-genai/ |
