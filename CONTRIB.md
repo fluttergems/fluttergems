@@ -195,6 +195,7 @@ Please add your package at the end of the table:
 | flutter_storage_inspector | https://pub.dev/packages/flutter_storage_inspector | https://fluttergems.dev/developer-tools/ |
 | admob_flutter_plus | https://pub.dev/packages/admob_flutter_plus | https://fluttergems.dev/ad-serving/ |
 | liquid_drop_nav_bar | https://pub.dev/packages/liquid_drop_nav_bar | https://fluttergems.dev/bottom-navigation-bar/ |
+| commons_validator | https://pub.dev/packages/commons_validator | https://fluttergems.dev/autoformat-masking-validation/ |
 | toastio | https://pub.dev/packages/toastio | https://fluttergems.dev/notification-toast/ |
 | toastio | https://pub.dev/packages/toastio | https://fluttergems.dev/glassmorphic-ui/ |
 | flutter_device_imei | https://pub.dev/packages/flutter_device_imei | https://fluttergems.dev/android-ios/ |
