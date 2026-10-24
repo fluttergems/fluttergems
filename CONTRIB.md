@@ -196,3 +196,12 @@ Please add your package at the end of the table:
 | admob_flutter_plus | https://pub.dev/packages/admob_flutter_plus | https://fluttergems.dev/ad-serving/ |
 | liquid_drop_nav_bar | https://pub.dev/packages/liquid_drop_nav_bar | https://fluttergems.dev/bottom-navigation-bar/ |
 | flutter_singbox_client | https://pub.dev/packages/flutter_singbox_client | https://fluttergems.dev/wifi-iot/ |
+| flutter_data_components | https://pub.dev/packages/flutter_data_components | https://fluttergems.dev/table/ |
+| infinite_lazy_grid | https://pub.dev/packages/infinite_lazy_grid | https://fluttergems.dev/layout-overlay/ |
+| flutter_doctor_ai | https://pub.dev/packages/flutter_doctor_ai | https://fluttergems.dev/developer-tools/ |
+| sliver_dashboard | https://pub.dev/packages/sliver_dashboard | https://fluttergems.dev/grid/ |
+| audio_stream_player | https://pub.dev/packages/audio_stream_player | https://fluttergems.dev/audio/ |
+| prayer_time_plus | https://pub.dev/packages/prayer_time_plus | https://fluttergems.dev/date-time-utilities/ |
+| hijri_plus | https://pub.dev/packages/hijri_plus | https://fluttergems.dev/date-time-utilities/ |
+| reel_text | https://pub.dev/packages/reel_text | https://fluttergems.dev/text-decoration-effect-animation/ |
+| phorm | https://pub.dev/packages/phorm | https://fluttergems.dev/sql-database/ |
