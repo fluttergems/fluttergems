@@ -196,3 +196,16 @@ Please add your package at the end of the table:
 | admob_flutter_plus | https://pub.dev/packages/admob_flutter_plus | https://fluttergems.dev/ad-serving/ |
 | liquid_drop_nav_bar | https://pub.dev/packages/liquid_drop_nav_bar | https://fluttergems.dev/bottom-navigation-bar/ |
 | validator_kit | https://pub.dev/packages/validator_kit | https://fluttergems.dev/form/ |
+| stackchain | https://pub.dev/packages/stackchain | https://fluttergems.dev/developer-tools/ |
+| material_3_expressive | https://pub.dev/packages/material_3_expressive | https://fluttergems.dev/widget-library-ui-framework/ |
+| m3_carousel | https://pub.dev/packages/m3_carousel | https://fluttergems.dev/carousel-cover-flow/ |
+| flutter_singbox_client | https://pub.dev/packages/flutter_singbox_client | https://fluttergems.dev/wifi-iot/ |
+| flutter_data_components | https://pub.dev/packages/flutter_data_components | https://fluttergems.dev/table/ |
+| infinite_lazy_grid | https://pub.dev/packages/infinite_lazy_grid | https://fluttergems.dev/layout-overlay/ |
+| flutter_doctor_ai | https://pub.dev/packages/flutter_doctor_ai | https://fluttergems.dev/developer-tools/ |
+| sliver_dashboard | https://pub.dev/packages/sliver_dashboard | https://fluttergems.dev/grid/ |
+| audio_stream_player | https://pub.dev/packages/audio_stream_player | https://fluttergems.dev/audio/ |
+| prayer_time_plus | https://pub.dev/packages/prayer_time_plus | https://fluttergems.dev/date-time-utilities/ |
+| hijri_plus | https://pub.dev/packages/hijri_plus | https://fluttergems.dev/date-time-utilities/ |
+| reel_text | https://pub.dev/packages/reel_text | https://fluttergems.dev/text-decoration-effect-animation/ |
+| phorm | https://pub.dev/packages/phorm | https://fluttergems.dev/sql-database/ |
