@@ -196,6 +196,8 @@ Please add your package at the end of the table:
 | admob_flutter_plus | https://pub.dev/packages/admob_flutter_plus | https://fluttergems.dev/ad-serving/ |
 | fitgrid_table | https://pub.dev/packages/fitgrid_table | https://fluttergems.dev/table/ |
 | liquid_drop_nav_bar | https://pub.dev/packages/liquid_drop_nav_bar | https://fluttergems.dev/bottom-navigation-bar/ |
+| cupertino_native_ui | https://pub.dev/packages/cupertino_native_ui | https://fluttergems.dev/widget-library-ui-framework/ |
+| cupertino_native_ui | https://pub.dev/packages/cupertino_native_ui | https://fluttergems.dev/glassmorphic-ui/ |
 | svg_animate | https://pub.dev/packages/svg_animate | https://fluttergems.dev/animation-transition/ |
 | svg_animate | https://pub.dev/packages/svg_animate | https://fluttergems.dev/image/ |
 | deeplink_x | https://pub.dev/packages/deeplink_x | https://fluttergems.dev/deep-linking/ |
