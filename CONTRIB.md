@@ -196,6 +196,7 @@ Please add your package at the end of the table:
 | admob_flutter_plus | https://pub.dev/packages/admob_flutter_plus | https://fluttergems.dev/ad-serving/ |
 | fitgrid_table | https://pub.dev/packages/fitgrid_table | https://fluttergems.dev/table/ |
 | liquid_drop_nav_bar | https://pub.dev/packages/liquid_drop_nav_bar | https://fluttergems.dev/bottom-navigation-bar/ |
+| flutter_upgrade_manager | https://pub.dev/packages/flutter_upgrade_manager | https://fluttergems.dev/cli/ |
 | flutter_architecture_kit | https://pub.dev/packages/flutter_architecture_kit | https://fluttergems.dev/cli/ |
 | semantic_zoom | https://pub.dev/packages/semantic_zoom | https://fluttergems.dev/text-decoration-effect-animation/ |
 | flutter_fire_presence | https://pub.dev/packages/flutter_fire_presence | https://fluttergems.dev/firebase/ |
