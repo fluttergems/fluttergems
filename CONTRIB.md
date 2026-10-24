@@ -195,6 +195,7 @@ Please add your package at the end of the table:
 | flutter_storage_inspector | https://pub.dev/packages/flutter_storage_inspector | https://fluttergems.dev/developer-tools/ |
 | admob_flutter_plus | https://pub.dev/packages/admob_flutter_plus | https://fluttergems.dev/ad-serving/ |
 | liquid_drop_nav_bar | https://pub.dev/packages/liquid_drop_nav_bar | https://fluttergems.dev/bottom-navigation-bar/ |
+| flutter_skin | https://pub.dev/packages/flutter_skin | https://fluttergems.dev/light-mode-dark-mode-themes/ |
 | virtual_keypad | https://pub.dev/packages/virtual_keypad | https://fluttergems.dev/keyboard/ |
 | flutter_classic_bluetooth | https://pub.dev/packages/flutter_classic_bluetooth | https://fluttergems.dev/bluetooth-nfc-beacon/ |
 | excel_plus | https://pub.dev/packages/excel_plus | https://fluttergems.dev/ods-xlsx-sheets/ |
