@@ -196,6 +196,7 @@ Please add your package at the end of the table:
 | admob_flutter_plus | https://pub.dev/packages/admob_flutter_plus | https://fluttergems.dev/ad-serving/ |
 | fitgrid_table | https://pub.dev/packages/fitgrid_table | https://fluttergems.dev/table/ |
 | liquid_drop_nav_bar | https://pub.dev/packages/liquid_drop_nav_bar | https://fluttergems.dev/bottom-navigation-bar/ |
+| warplink_flutter | https://pub.dev/packages/warplink_flutter | https://fluttergems.dev/deep-linking/ |
 | dialog_dock | https://pub.dev/packages/dialog_dock | https://fluttergems.dev/dialogs/ |
 | amount_to_word | https://pub.dev/packages/amount_to_word | https://fluttergems.dev/localization-internationalization/ |
 | smf_flutter_cli | https://pub.dev/packages/smf_flutter_cli | https://fluttergems.dev/cli/ |
