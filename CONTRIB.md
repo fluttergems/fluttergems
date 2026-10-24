@@ -195,6 +195,7 @@ Please add your package at the end of the table:
 | flutter_storage_inspector | https://pub.dev/packages/flutter_storage_inspector | https://fluttergems.dev/developer-tools/ |
 | admob_flutter_plus | https://pub.dev/packages/admob_flutter_plus | https://fluttergems.dev/ad-serving/ |
 | liquid_drop_nav_bar | https://pub.dev/packages/liquid_drop_nav_bar | https://fluttergems.dev/bottom-navigation-bar/ |
+| flutter_doctor_ai | https://pub.dev/packages/flutter_doctor_ai | https://fluttergems.dev/developer-tools/ |
 | sliver_dashboard | https://pub.dev/packages/sliver_dashboard | https://fluttergems.dev/grid/ |
 | audio_stream_player | https://pub.dev/packages/audio_stream_player | https://fluttergems.dev/audio/ |
 | prayer_time_plus | https://pub.dev/packages/prayer_time_plus | https://fluttergems.dev/date-time-utilities/ |
