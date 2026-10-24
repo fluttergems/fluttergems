@@ -195,6 +195,7 @@ Please add your package at the end of the table:
 | flutter_storage_inspector | https://pub.dev/packages/flutter_storage_inspector | https://fluttergems.dev/developer-tools/ |
 | admob_flutter_plus | https://pub.dev/packages/admob_flutter_plus | https://fluttergems.dev/ad-serving/ |
 | liquid_drop_nav_bar | https://pub.dev/packages/liquid_drop_nav_bar | https://fluttergems.dev/bottom-navigation-bar/ |
+| flutter_guard_sdk | https://pub.dev/packages/flutter_guard_sdk | https://fluttergems.dev/http-client-utilities/ |
 | auto_reply_sync | https://pub.dev/packages/auto_reply_sync | https://fluttergems.dev/debugging-logging/ |
 | auto_reply_sync | https://pub.dev/packages/auto_reply_sync | https://fluttergems.dev/http-client-utilities/ |
 | smart_google_ads | https://pub.dev/packages/smart_google_ads | https://fluttergems.dev/ad-serving/ |
