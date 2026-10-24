@@ -196,3 +196,4 @@ Please add your package at the end of the table:
 | admob_flutter_plus | https://pub.dev/packages/admob_flutter_plus | https://fluttergems.dev/ad-serving/ |
 | liquid_drop_nav_bar | https://pub.dev/packages/liquid_drop_nav_bar | https://fluttergems.dev/bottom-navigation-bar/ |
 | reel_text | https://pub.dev/packages/reel_text | https://fluttergems.dev/text-decoration-effect-animation/ |
+| phorm | https://pub.dev/packages/phorm | https://fluttergems.dev/sql-database/ |
