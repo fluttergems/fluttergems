@@ -195,6 +195,7 @@ Please add your package at the end of the table:
 | flutter_storage_inspector | https://pub.dev/packages/flutter_storage_inspector | https://fluttergems.dev/developer-tools/ |
 | admob_flutter_plus | https://pub.dev/packages/admob_flutter_plus | https://fluttergems.dev/ad-serving/ |
 | liquid_drop_nav_bar | https://pub.dev/packages/liquid_drop_nav_bar | https://fluttergems.dev/bottom-navigation-bar/ |
+| stackchain | https://pub.dev/packages/stackchain | https://fluttergems.dev/developer-tools/ |
 | material_3_expressive | https://pub.dev/packages/material_3_expressive | https://fluttergems.dev/widget-library-ui-framework/ |
 | m3_carousel | https://pub.dev/packages/m3_carousel | https://fluttergems.dev/carousel-cover-flow/ |
 | flutter_singbox_client | https://pub.dev/packages/flutter_singbox_client | https://fluttergems.dev/wifi-iot/ |
