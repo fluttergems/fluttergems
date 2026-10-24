@@ -195,6 +195,7 @@ Please add your package at the end of the table:
 | flutter_storage_inspector | https://pub.dev/packages/flutter_storage_inspector | https://fluttergems.dev/developer-tools/ |
 | admob_flutter_plus | https://pub.dev/packages/admob_flutter_plus | https://fluttergems.dev/ad-serving/ |
 | liquid_drop_nav_bar | https://pub.dev/packages/liquid_drop_nav_bar | https://fluttergems.dev/bottom-navigation-bar/ |
+| app_upgrade_checker | https://pub.dev/packages/app_upgrade_checker | https://fluttergems.dev/app-update/ |
 | csv_plus | https://pub.dev/packages/csv_plus | https://fluttergems.dev/ods-xlsx-sheets/ |
 | keyspot | https://pub.dev/packages/keyspot | https://fluttergems.dev/feature-discovery-coach-marks/ |
 | kashida | https://pub.dev/packages/kashida | https://fluttergems.dev/localization-internationalization/ |
