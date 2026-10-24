@@ -196,6 +196,10 @@ Please add your package at the end of the table:
 | admob_flutter_plus | https://pub.dev/packages/admob_flutter_plus | https://fluttergems.dev/ad-serving/ |
 | fitgrid_table | https://pub.dev/packages/fitgrid_table | https://fluttergems.dev/table/ |
 | liquid_drop_nav_bar | https://pub.dev/packages/liquid_drop_nav_bar | https://fluttergems.dev/bottom-navigation-bar/ |
+| xor_encryption | https://pub.dev/packages/xor_encryption | https://fluttergems.dev/cryptography-security-permissions/ |
+| calendar_cc | https://pub.dev/packages/calendar_cc | https://fluttergems.dev/calendar/ |
+| flutter_asset_cleaner | https://pub.dev/packages/flutter_asset_cleaner | https://fluttergems.dev/developer-tools/ |
+| as_instapicker | https://pub.dev/packages/as_instapicker | https://fluttergems.dev/multimedia-picker/ |
 | flutter_import_export | https://pub.dev/packages/flutter_import_export | https://fluttergems.dev/ods-xlsx-sheets/ |
 | flutter_guard_sdk | https://pub.dev/packages/flutter_guard_sdk | https://fluttergems.dev/http-client-utilities/ |
 | auto_reply_sync | https://pub.dev/packages/auto_reply_sync | https://fluttergems.dev/debugging-logging/ |
