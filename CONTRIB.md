@@ -278,3 +278,4 @@ Please add your package at the end of the table:
 | hijri_plus | https://pub.dev/packages/hijri_plus | https://fluttergems.dev/date-time-utilities/ |
 | reel_text | https://pub.dev/packages/reel_text | https://fluttergems.dev/text-decoration-effect-animation/ |
 | phorm | https://pub.dev/packages/phorm | https://fluttergems.dev/sql-database/ |
+| horizontal_credit_card | https://pub.dev/packages/horizontal_credit_card | https://fluttergems.dev/credit-card/ |
