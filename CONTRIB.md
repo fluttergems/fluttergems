@@ -278,3 +278,12 @@ Please add your package at the end of the table:
 | hijri_plus | https://pub.dev/packages/hijri_plus | https://fluttergems.dev/date-time-utilities/ |
 | reel_text | https://pub.dev/packages/reel_text | https://fluttergems.dev/text-decoration-effect-animation/ |
 | phorm | https://pub.dev/packages/phorm | https://fluttergems.dev/sql-database/ |
+| durable_queue | https://pub.dev/packages/durable_queue | https://fluttergems.dev/http-client-utilities/ |
+| durable_queue_sqlite | https://pub.dev/packages/durable_queue_sqlite | https://fluttergems.dev/sql-database/ |
+| durable_queue_hive | https://pub.dev/packages/durable_queue_hive | https://fluttergems.dev/database-adapter/ |
+| durable_queue_encryption | https://pub.dev/packages/durable_queue_encryption | https://fluttergems.dev/cryptography-security-permissions/ |
+| durable_queue_dio | https://pub.dev/packages/durable_queue_dio | https://fluttergems.dev/http-client-utilities/ |
+| durable_queue_connectivity | https://pub.dev/packages/durable_queue_connectivity | https://fluttergems.dev/network-connectivity-status/ |
+| durable_queue_transfer | https://pub.dev/packages/durable_queue_transfer | https://fluttergems.dev/file-folder-path-util/ |
+| durable_queue_workmanager | https://pub.dev/packages/durable_queue_workmanager | https://fluttergems.dev/android-ios/ |
+| durable_queue_flutter | https://pub.dev/packages/durable_queue_flutter | |
