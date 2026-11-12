@@ -4,6 +4,7 @@ Please add your package at the end of the table:
 
 | Package Name | pub dev URL | Suggested Flutter Gems Category URL for the package (Optional) |
 | --- | --- | --- |
+| techpro_test | https://pub.dev/packages/techpro_test | https://fluttergems.dev/testing/ |
 | shared_preferences | https://pub.dev/packages/shared_preferences | https://fluttergems.dev/nosql-database/ |
 | riverpod | https://pub.dev/packages/riverpod | https://fluttergems.dev/state-management/ |
 | llm_sdk | https://pub.dev/packages/llm_sdk | https://fluttergems.dev/chatgpt-llm-genai/ |
