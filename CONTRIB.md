@@ -280,3 +280,5 @@ Please add your package at the end of the table:
 | phorm | https://pub.dev/packages/phorm | https://fluttergems.dev/sql-database/ |
 | llm_markdown | https://pub.dev/packages/llm_markdown | https://fluttergems.dev/markdown/ |
 | llm_markdown_parser | https://pub.dev/packages/llm_markdown_parser | https://fluttergems.dev/markdown/ |
+| llm_markdown_chat | https://pub.dev/packages/llm_markdown_chat | https://fluttergems.dev/chatgpt-llm-genai/ |
+| llm_markdown_firebase_ai | https://pub.dev/packages/llm_markdown_firebase_ai | https://fluttergems.dev/chatgpt-llm-genai/ |
